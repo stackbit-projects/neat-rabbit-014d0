@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We're emulating the brain
+    title: We're emulating the brain — in
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
