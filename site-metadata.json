@@ -29,7 +29,8 @@
             }
         ],
         "title": "Brains in Silicon Lab",
-        "logo_alt": "Brains in Silicon"
+        "logo_alt": "Brains in Silicon",
+        "logo": "images/fabulous-turtle.jpg"
     },
     "footer": {
         "has_nav": true,
