@@ -16,11 +16,6 @@
                 "label": "Projects",
                 "url": "/projects",
                 "style": "link"
-            },
-            {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
             }
         ],
         "title": "Brains in Silicon Lab",
