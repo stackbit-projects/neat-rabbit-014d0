@@ -29,7 +29,8 @@
             }
         ],
         "logo": "images/Block_S_1_color_red.png",
-        "title": "Brains in Silicon Lab"
+        "title": "Brains in Silicon Lab",
+        "logo_alt": "Brains in Silicon"
     },
     "footer": {
         "has_nav": true,
