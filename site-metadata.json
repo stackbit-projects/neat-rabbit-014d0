@@ -28,7 +28,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/Block_S_1_color_red.png"
+        "logo": "images/Block_S_1_color_red.png",
+        "title": "Brains in Silicon Lab"
     },
     "footer": {
         "has_nav": true,
