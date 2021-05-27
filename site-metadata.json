@@ -3,7 +3,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "url": "/features",
+                "url": "/people",
                 "style": "link",
                 "label": "People"
             },
