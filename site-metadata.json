@@ -28,7 +28,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/stanford-line1-3.svg"
     },
     "footer": {
         "has_nav": true,
