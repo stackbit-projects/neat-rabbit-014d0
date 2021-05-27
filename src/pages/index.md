@@ -18,7 +18,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: white
+      background_color: gray
       background_image: images/201c-600x600.png
       background_image_opacity: 80
       background_image_size: auto
