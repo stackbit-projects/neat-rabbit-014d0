@@ -4,7 +4,8 @@
         "nav_links": [
             {
                 "url": "/features",
-                "style": "link"
+                "style": "link",
+                "label": "People"
             },
             {
                 "label": "Blog",
