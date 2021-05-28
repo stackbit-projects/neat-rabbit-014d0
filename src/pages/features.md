@@ -5,6 +5,7 @@ sections:
     title: Projects
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
+    has_background: true
   - type: features_section
     features:
       - title: Project 1
