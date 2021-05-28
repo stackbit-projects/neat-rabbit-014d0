@@ -14,7 +14,7 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: images/201c-600x600.png
+      background_image: images/hero.svg
       background_image_opacity: 90
       background_image_size: auto
       background_image_repeat: repeat
