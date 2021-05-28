@@ -13,7 +13,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: gray
+      background_color: blue
       background_image: images/hero.svg
       background_image_opacity: 90
       background_image_size: auto
