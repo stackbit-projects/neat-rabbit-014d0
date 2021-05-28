@@ -37,18 +37,6 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
