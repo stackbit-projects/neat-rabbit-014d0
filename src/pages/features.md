@@ -7,7 +7,7 @@ sections:
     align: center
     has_background: false
     background:
-      background_color: white
+      background_color: blue
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
