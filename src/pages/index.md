@@ -21,8 +21,7 @@ sections:
   - type: features_section
     title: About Us
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
