@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: We're emulating the brain — 
     in silicon
+        style: color: "white"
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
