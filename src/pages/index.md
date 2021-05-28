@@ -32,7 +32,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-            style: link
+            style: primary
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
