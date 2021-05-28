@@ -2,15 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: We're emulating the brain — 
+    title: We're emulating the brain —
     title2: in silicon
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
