@@ -9,7 +9,7 @@ sections:
     background:
       background_color: white
       background_image_opacity: 90
-      background_image_size: contain
+      background_image_size: cover
       background_image_repeat: no-repeat
       background_image: images/201c-600x600.png
   - type: features_section
