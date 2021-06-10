@@ -11,7 +11,6 @@ sections:
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
-    image: images/201c-600x600.png
   - type: features_section
     features:
       - title: Project 1
