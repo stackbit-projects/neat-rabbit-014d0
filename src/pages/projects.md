@@ -5,7 +5,7 @@ sections:
     title: Projects
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
-    has_background: false
+    has_background: true
     background:
       background_color: blue
       background_image_opacity: 0
