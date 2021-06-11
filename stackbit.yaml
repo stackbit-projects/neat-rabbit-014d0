@@ -606,4 +606,4 @@ models:
               label: Relative Url
   timeline_section:
     type: object
-    label: timeline_section
+    label: Timeline Section
