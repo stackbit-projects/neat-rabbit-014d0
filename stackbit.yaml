@@ -607,6 +607,4 @@ models:
   timeline_section:
     type: object
     label: Timeline Section
-    fields:
-      - name: ''
-        type: string
+    fields: []
