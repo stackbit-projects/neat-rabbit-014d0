@@ -18,6 +18,7 @@ sections:
       background_image_opacity: 90
       background_image_size: auto
       background_image_repeat: repeat
+  - type: timeline_section
   - type: features_section
     title: About Us
     features:
@@ -37,7 +38,6 @@ sections:
         image_position: left
         actions: []
         type: feature
-  - type: timeline_section
   - type: blog_feed_section
     title: What's New
     show_recent: true
