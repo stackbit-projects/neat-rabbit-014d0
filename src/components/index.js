@@ -32,6 +32,7 @@ export {
     HeroSection,
     SectionActions,
     TeamSection,
+    TimelineSection,
     Layout
 };
 
