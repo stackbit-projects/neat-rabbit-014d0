@@ -13,6 +13,7 @@ import Header from './Header';
 import HeroSection from './HeroSection';
 import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
+import TimelineSection from './TimelineSection';
 import Layout from './Layout';
 
 export {
