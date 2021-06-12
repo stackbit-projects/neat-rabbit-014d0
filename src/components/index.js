@@ -14,6 +14,7 @@ import HeroSection from './HeroSection';
 import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
 import TimelineSection from './TimelineSection';
+import PublicationsSection from './PublicationsSection';
 import Layout from './Layout';
 
 export {
@@ -33,6 +34,7 @@ export {
     SectionActions,
     TeamSection,
     TimelineSection,
+    PublicationsSection,
     Layout
 };
 
@@ -53,5 +55,6 @@ export default {
     SectionActions,
     TeamSection,
     TimelineSection,
+    PublicationsSection,
     Layout
 };

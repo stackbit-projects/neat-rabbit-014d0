@@ -609,3 +609,11 @@ models:
     type: object
     label: Timeline Section
     fields: []
+  publications_section:
+    type: object
+    label: Publications Section
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
