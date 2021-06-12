@@ -37,6 +37,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+  - type: timeline_section
   - type: blog_feed_section
     title: What's New
     show_recent: true
@@ -52,7 +53,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - type: timeline_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
