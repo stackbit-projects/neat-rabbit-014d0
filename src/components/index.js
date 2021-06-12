@@ -52,5 +52,6 @@ export default {
     HeroSection,
     SectionActions,
     TeamSection,
+    TimelineSection,
     Layout
 };
