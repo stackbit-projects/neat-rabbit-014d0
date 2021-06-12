@@ -104,7 +104,7 @@ Inline `code` with `back-ticks around` it.
     </thead>
     <tbody>
       <tr>
-        <td>Body content 1 [an example](http://example.com)</td>
+        <td>Body content 1</td>
         <td>Body content 2</td>
       </tr>
     </tbody>
