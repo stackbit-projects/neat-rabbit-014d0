@@ -266,6 +266,7 @@ models:
             - features_section
             - hero_section
             - team_section
+            - timeline_section
       - type: model
         name: seo
         models:
