@@ -1,31 +1,26 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: Our Approach - A Third Alternative for Computation
 date: '2020-05-30'
-author: src/data/team/dianne-ameter.yaml
+author: src/data/team/kwabena-boahen.yaml
 categories:
-  - src/data/categories/tutorials.yaml
-  - src/data/categories/news.yaml
+  - src/data/categories/general.yaml
 tags:
-  - JAMstack
-  - Sourcebit
 image: images/4.png
 image_alt: Post 4 placeholder image
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  Computers' inherent limitations as neural simulation platforms are addressed by neuromorphic chips: Their fundamental component is not a logic gate but a silicon neuron.
 seo:
-  title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
-  description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+  title: Our Approach - A Third Alternative for Computation
+  description: 'Computers inherent limitations as neural simulation platforms are addressed by neuromorphic chips'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Our Approach - A Third Alternative for Computation
       keyName: property
     - name: 'og:description'
-      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+      value: 'Computers inherent limitations as neural simulation platforms are addressed by neuromorphic chips'
       keyName: property
     - name: 'og:image'
       value: images/4.png
@@ -34,20 +29,21 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Our Approach - A Third Alternative for Computation
     - name: 'twitter:description'
-      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+      value: 'Computers inherent limitations as neural simulation platforms are addressed by neuromorphic chips'
     - name: 'twitter:image'
       value: images/4.png
       relativeUrl: true
 template: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+Alternative hardware solutions are being explored to satisfy **brain simulations'** voracious appetite for computational resources. In these simulations, the computer evaluates mathematical formulae that describe the behavior of ion-channels, pore-forming protein molecules that stud a neuron's membrane. In this way, researchers codify their hypotheses about how the cognitive behavior they are studying arises from the brain's physiology (a neuronal type's ion-channel repertoire) and anatomy (a neural network's synaptic organization). The number of evaluations explodes when the model is scaled up to replicate organism-level behavior. Consequently, researchers cannot link cognitive behavior to well-understood cellular-level processes.
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
+> Progress has been made linking the generation of brain rhythms to cellular mechanisms, but the task of linking cognition to cellular mechanisms remains.
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+For instance, neuroscientists would like to know how various neuronal types in the visual cortex—and their synaptic connectivity—contribute to the tasks it performs, such as recognizing a face. When researchers lucky enough to have access to a two-million-dollar, 2048-processor, **Blue Gene** rack attempted this, it took one hour and twenty minutes to simulate one second of neural activity in 8 million neurons connected by 4 billion synapses. And when the model failed to predict the way the cortex responds to a novel situation, the researchers had to dump their hypothesis and start over. It can take umpteen iterations to get the model right, waiting an hour each time for it to run, frustrating researchers. Why did this tiny piece of cortex—far less than the brain uses to recognize a face—bring a supercomputer to its knees? Because Blue Gene had to evaluate those ion-channel equations 40 trillion times!
+
+> Computers' inherent limitations as neural simulation platforms are addressed by neuromorphic chips: Their fundamental component is not a logic gate but a silicon neuron.
+
+Two affordable alternatives to Blue Gene are currently available: **GPUs and FPGAs**. Graphical processing units sporting a hundred and twenty-eight cores on a single chip have been programmed to run brain simulations a hundred times faster than a PC. Field Programmable Gate Arrays sporting a hundred-thousand individually configurable logic gates on a single chip have been configured to run brain simulations two thousand times faster than a PC—comparable the 2048-processor Blue Gene rack—at a fraction of the cost. The good news is now you too can have your own supercomputer. The bad news is now you too can wait an hour to simulate a second of activity in tiny piece of cortex. To avoid the wait, we are pioneering a third alternative: **programmable neuromorphic chips**.

@@ -1,30 +1,26 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Our Objectives - Three Complementary Approaches
 date: '2020-06-02'
-author: src/data/team/gordon-norman.yaml
+author: src/data/team/kwabena-boahen.yaml
 categories:
-  - src/data/categories/tutorials.yaml
+  - src/data/categories/general.yaml
 tags:
-  - Stackbit
-  - Netlify
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  In their quest to understand how cognition emerges at the behavioral level from mechanisms at the molecular level, researchers have pursued three approaches: Experiment, Theory, and Computation.
 seo:
-  title: Amet Nulla Facilisi Morbi Tempus
-  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+  title: Our Objectives - Three Complementary Approaches
+  description: 'Experiment, Theory, and Computation'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: Our Objectives - Three Complementary Approaches
       keyName: property
     - name: 'og:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: 'Experiment, Theory, and Computation'
       keyName: property
     - name: 'og:image'
       value: images/5.png
@@ -33,17 +29,21 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: Our Objectives - Three Complementary Approaches
     - name: 'twitter:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: 'Experiment, Theory, and Computation'
     - name: 'twitter:image'
       value: images/5.png
       relativeUrl: true
 template: post
 ---
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+In their quest to understand how cognition emerges at the behavioral level from mechanisms at the molecular level, researchers have pursued **three approaches**: Experiment, Theory, and Computation. Dissecting the brain experimentally uncovers its hierarchical organization (molecules, synapses, neurons, columns, areas, systems, and organism), but fails to provide insight into how these levels are integrated. Analyzing the brain theoretically explains behavior at one level using abstractions from the level beneath, but makes simplifying assumptions that must be validated. Simulating the brain computationally permits inclusion of molecular-level details while replicating organism-level behavior, but requires enormous amounts of data to constrain parameters and verify results. That these approaches complement each other means that progress requires advances on all three fronts.
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+> Information must be integrated across seven levels of investigation spanning nine spatial scales—nanometer-sized ion-channels to meter-sized organisms.
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+Thanks to recent advances in neural **imaging and recording techniques**, researchers' ability to characterize the brain's structure and function experimentally trumps their ability to simulate its behavior computationally. Microelectrode penetrations measure voltage differences along fine neural processes, elucidating mechanisms underlying reception and transmission of electrical signals between neurons. Serial-scanning electron microscopes image fixed brain-tissue slice by slice, enabling the neurons' synaptic connectivity to be reconstructed. Two-photon microscopes image activity in the living brain layer by layer, mapping the behavior of thousands of neurons. These techniques are providing the copious data needed to constrain large-scale simulations.
+
+> The data required to constrain large-scale simulations is now available; the superpowerful computers required are not.
+
+We are bridging the experiment–computation gap by building a computer that **works like the brain**—one that can serve as a tool to investigate brain function—feeding back and contributing to a fundamental, biological understanding of how the brain works. Technological developments in electrical engineering and computer science increasingly further the process of discovery in a variety of scientific fields, notably in the life sciences. Advanced technologies provide new tools to deepen the study of current problems in biology and neuroscience, but importantly can also enable a reformulation of the very approach taken towards answering these questions. Our research at the intersection of neurobiology and electrical engineering takes this technology-driven approach to scientific investigation by using existing knowledge of brain function to design an affordable supercomputer.

@@ -19,27 +19,8 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: timeline_section
-  - type: features_section
-    title: About Us
-    features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        align: left
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
-        type: feature
   - type: blog_feed_section
-    title: What's New
+    title: About Us
     show_recent: true
     recent_count: 3
 seo:

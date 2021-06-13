@@ -1,30 +1,26 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: Our Technology - Programmable Neural Silicon
 date: '2020-05-28'
-author: src/data/team/gordon-norman.yaml
+author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-  - Stackbit
-  - JAMstack
 image: images/3.png
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  A computer that executes one instruction every time the brain activates a synapse would consume a hundred megawatts!
 seo:
-  title: Cur Ipse Pythagoras Et Aegyptum Lustravit
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  title: Our Technology - Programmable Neural Silicon
+  description: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties.'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Our Technology - Programmable Neural Silicon
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties'
       keyName: property
     - name: 'og:image'
       value: images/3.png
@@ -33,17 +29,21 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Our Technology - Programmable Neural Silicon
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties'
     - name: 'twitter:image'
       value: images/3.png
       relativeUrl: true
 template: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
+**Neuromorphic chips** were pioneered by Carver Mead in the late eighties, when he developed the first silicon retina at Caltech. Extrapolating the doubling in computer performance that was occurring every eighteen months (Moore’s Law), Mead predicted correctly in 1990 that present-day computers would use ten million times more energy (per instruction) than the brain uses (per synaptic activation). He sought to close this efficiency-gap by building microelectronic circuits based on the brain. Mead succeeded in mimicking ion-flow across a neuron's membrane with electron-flow through a transistor's channel—this should not have come as a surprise—the same physical forces are at work in both cases! We made these chips programmable by coming up with a versatile ion-channel analog and reconfigurable synaptic connections.
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
+> A computer that executes one instruction every time the brain activates a synapse would consume a hundred megawatts!
 
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+Instead of designing different electronic circuits to emulate each of a wide variety of ion-selective protein pores that stud neurons' membranes, as Mead did in his silicon retina, we came up with a versatile analog that **emulates** the range of behavior they display. Some open when the voltage across the membrane is high, others open when the voltage is low, and everything in between. Nevertheless, the fraction that opens always follows a sigmoid-curve, and the time it takes always follows a bell-curve. As few as **eight transistors** sufficed to replicate this behavior—thanks to the common physical forces—allowing millions of distinct ion-channel populations to be modeled with a single chip. After it is fabricated, its sigmoid- and bell-curves are tailored to fit any desired ion-channel type by computer-controlled bias voltages.
+
+> Whereas simulation refers to software, emulation refers to hardware—a physical realization of a neural model that operates in real-time.
+
+Instead of hardwiring the silicon neurons together, as Mead did in his silicon retina, we **softwired** them by assigning unique addresses. Every time a spike occurs, the chip outputs that neuron’s address. This address points to a memory location (RAM) that holds the synaptic target’s address, or to multiple memory locations if the neuron has multiple synaptic targets. When this address is fed back into the chip, a post-synaptic potential is triggered at the target. An extremely efficient technique, as the same post-synaptic circuit serves all the synapses that neuron receives—virtual synapses! Encoding, translating, and decoding an address happens fast enough to route several million spikes per second, allowing a million connections to be made among a thousand silicon neurons. These softwires may be rerouted simply by overwriting the RAM’s look-up table, making it possible to specify any desired synaptic connectivity.
