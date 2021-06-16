@@ -3,14 +3,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "url": "/about",
                 "style": "link",
                 "label": "People"
@@ -24,6 +16,14 @@
                 "label": "Projects",
                 "url": "/projects",
                 "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "title": "Brains in Silicon Lab",
