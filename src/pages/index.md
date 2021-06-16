@@ -5,8 +5,7 @@ sections:
     title: We're emulating the brain —
     title2: in silicon
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We build silicon chips that combine analog computation with digital communication, emulating the brain's unique mix of analog and digital techniques.
     actions: []
     align: left
     image_alt: Hero placeholder image

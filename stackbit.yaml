@@ -474,6 +474,22 @@ models:
           type: reference
           models:
             - person
+  alumni_section:
+    type: object
+    label: Alumni Section
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: list
+        name: alumni
+        label: Team
+        items:
+          type: reference
+          models:
+            - person
   feature:
     type: object
     label: Feature

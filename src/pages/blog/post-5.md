@@ -5,7 +5,7 @@ author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image: images/5.png
+image:
 image_alt: Post 5 placeholder image
 excerpt: >-
   In their quest to understand how cognition emerges at the behavioral level from mechanisms at the molecular level, researchers have pursued three approaches: Experiment, Theory, and Computation.

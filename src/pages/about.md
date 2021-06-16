@@ -8,10 +8,31 @@ sections:
       - src/data/team/eric-kauderer-abrams.yaml
       - src/data/team/saarthak-sarup.yaml
       - src/data/team/max-kanwal.yaml
-  - type: team_section
+  - type: alumni_section
     title: Alumni
     team:
       - src/data/alumni/jonathan-timcheck.yaml
+      - src/data/alumni/alex-neckar.yaml
+      - src/data/alumni/sam-fok.yaml
+      - src/data/alumni/ben-varkey-benjamin.yaml
+      - src/data/alumni/ashok-cutkosky.yaml
+      - src/data/alumni/samir-menon.yaml
+      - src/data/alumni/tatiana-engel.yaml
+      - src/data/alumni/nick-steinmetz.yaml
+      - src/data/alumni/nick-oza.yaml
+      - src/data/alumni/john-aguayo.yaml
+      - src/data/alumni/paul-a-merolla.yaml
+      - src/data/alumni/jean-marie-bussat.yaml
+      - src/data/alumni/john-h-wittig-jr.yaml
+      - src/data/alumni/rodrigo-alvarez-icaza.yaml
+      - src/data/alumni/peiran-gao.yaml
+      - src/data/alumni/john-v-arthur.yaml
+      - src/data/alumni/anand-chandrasekaran.yaml
+      - src/data/alumni/sridhar-devarajan.yaml
+      - src/data/alumni/bo-wen.yaml
+      - src/data/alumni/kai-michael-hynna.yaml
+      - src/data/alumni/kareem-zagloul.yaml
+      - src/data/alumni/brian-taba.yaml
 seo:
   title: Who We Are
   description: This is the about us page

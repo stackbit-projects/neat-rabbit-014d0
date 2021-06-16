@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import {getData, withPrefix, mailTo, markdownify} from '../utils';
 
-export default class TeamSection extends React.Component {
+export default class AlumniSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
@@ -20,11 +20,7 @@ export default class TeamSection extends React.Component {
                       return (
                       <div key={person_idx} className="cell">
                         <div className="card team-member">
-                        {person_data.photo && (
-                        <figure className="card__media card__media--bottom">
-                          <img src={withPrefix(person_data.photo)} alt={person_data.photo_alt} />
-                        </figure>
-                        )}
+
                           <div className="card__body">
                             <header className="card__header">
                               <h3 className="h4 card__title">{person_data.first_name} {person_data.last_name}</h3>

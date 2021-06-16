@@ -7,6 +7,7 @@ export { default as getPages } from './getPages';
 export { default as getData } from './getData';
 export { default as htmlToReact } from './htmlToReact';
 export { default as toUrl } from './toUrl';
+export { default as mailTo } from './mailTo';
 export { default as pathJoin } from './pathJoin';
 export { default as markdownify } from './markdownify';
 export { default as withPrefix } from './withPrefix';
