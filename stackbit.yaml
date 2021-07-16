@@ -490,6 +490,15 @@ models:
           type: reference
           models:
             - person
+  person_section:
+      type: object
+      label: Person Section
+      labelField: title
+      fields:
+        - type: string
+          name: person_data_file
+          label: Person Data file
+          description: Path to person's YAML file
   feature:
     type: object
     label: Feature

@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {getData, withPrefix, mailTo, markdownify} from '../utils';
+import {Link, getData, withPrefix, mailTo, markdownify} from '../utils';
 
 export default class TeamSection extends React.Component {
     render() {
@@ -19,6 +19,7 @@ export default class TeamSection extends React.Component {
                       let person_data = getData(this.props.pageContext.site.data, person);
                       return (
                       <div key={person_idx} className="cell">
+                        <Link to={withPrefix(_.get(person_data, 'link', null))}>
                         <div className="card team-member">
                         {person_data.photo && (
                         <figure className="card__media card__media--bottom">
@@ -27,7 +28,7 @@ export default class TeamSection extends React.Component {
                         )}
                           <div className="card__body">
                             <header className="card__header">
-                              <h3 className="h4 card__title">{person_data.first_name} {person_data.last_name}</h3>
+                              <h3 className="h3 card__title">{person_data.first_name} {person_data.last_name}</h3>
                             </header>
                             <footer className="card__footer">
                             {person_data.email && (
@@ -36,6 +37,7 @@ export default class TeamSection extends React.Component {
                             </footer>
                           </div>
                         </div>
+                        </Link>
                       </div>
                       )
                   })}
@@ -45,6 +47,8 @@ export default class TeamSection extends React.Component {
         );
     }
 }
+
+
 
 // {person_data.bio && (
 // <div className="card__copy">
