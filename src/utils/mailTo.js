@@ -1,4 +1,3 @@
-const _ = require('lodash');
 
 export default function mailTo(address) {
     if (!address) {

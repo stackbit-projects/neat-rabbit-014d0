@@ -10,6 +10,7 @@ export default class BlogFeedSection extends React.Component {
         let section_author = false;
         let section_category = false;
         let posts_all = getPages(this.props.pageContext.pages, '/blog');
+        console.log(posts_all)
         let posts_sorted = _.orderBy(posts_all, 'frontmatter.date', 'desc');
         let show_recent = _.get(section, 'show_recent', null);
         let recent_count = _.get(section, 'recent_count', null);

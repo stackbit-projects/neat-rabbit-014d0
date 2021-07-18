@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {Link, getData, withPrefix, mailTo, markdownify} from '../utils';
+import {Link, getData, withPrefix, mailTo} from '../utils';
 
 export default class TeamSection extends React.Component {
     render() {

@@ -52,7 +52,7 @@ export default class ContentSection extends React.Component {
                                               <td>{markdownify(entry.raw)}</td>
                                               )}
                                               {entry.href && (
-                                              <td><a href={withPrefix(entry.href)} target="_blank">PDF</a></td>
+                                              <td><a href={withPrefix(entry.href)} target="_blank" rel="noreferrer">PDF</a></td>
                                               )}
                                             </tr>
                                         )

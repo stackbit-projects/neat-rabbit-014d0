@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {Link, getData, withPrefix, markdownify} from '../utils';
+import {getData, withPrefix, markdownify} from '../utils';
 
 export default class PersonSection extends React.Component {
     render() {

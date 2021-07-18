@@ -1,23 +1,23 @@
 ---
 title: Designing and Testing Neuromorphic Chips
-date: '2020-05-28'
+date: '2020-05-27'
 author: src/data/team/kwabena-boahen.yaml
 categories:
-  - src/data/categories/general.yaml
+  - src/data/categories/tutorials.yaml
 tags:
 image:
 image_alt: Neuromorphic Chip
 excerpt: >-
   A computer that executes one instruction every time the brain activates a synapse would consume a hundred megawatts!
 seo:
-  title: Our Technology - Programmable Neural Silicon
+  title: Designing and Testing Neuromorphic Chips
   description: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties.'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Our Technology - Programmable Neural Silicon
+      value: Designing and Testing Neuromorphic Chips
       keyName: property
     - name: 'og:description'
       value: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties'
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Our Technology - Programmable Neural Silicon
+      value: Designing and Testing Neuromorphic Chips
     - name: 'twitter:description'
       value: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties'
     - name: 'twitter:image'

@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {getData, withPrefix, mailTo, markdownify} from '../utils';
+import {getData, mailTo} from '../utils';
 
 export default class AlumniSection extends React.Component {
     render() {
