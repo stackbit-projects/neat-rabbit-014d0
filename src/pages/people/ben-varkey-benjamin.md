@@ -1,20 +1,20 @@
 ---
-title: Saarthak Sarup
+title: Ben Varkey Benjamin
 sections:
   - type: person_section
-    person_data_file: src/data/team/saarthak-sarup.yaml
+    person_data_file: src/data/alumni/ben-varkey-benjamin.yaml
 seo:
-  title: People | Saarthak Sarup
-  description: Saarthak's Homepage
+  title: People | Ben Varkey Benjamin
+  description: Ben's Homepage
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: People | Saarthak Sarup
+      value: People | Ben Varkey Benjamin
       keyName: property
     - name: 'og:description'
-      value: Saarthak's Homepage
+      value: Ben's Homepage
       keyName: property
 template: advanced
 ---

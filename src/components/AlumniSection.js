@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {getData, mailTo} from '../utils';
+import {Link, getData, withPrefix} from '../utils';
 
 export default class AlumniSection extends React.Component {
     render() {
@@ -17,21 +17,28 @@ export default class AlumniSection extends React.Component {
                 <div className="flex flex--col-3">
                   {_.map(_.get(section, 'team', null), (person, person_idx) => {
                       let person_data = getData(this.props.pageContext.site.data, person);
+                      let name = person_data.first_name + ' ' + person_data.last_name;
+                      if (_.get(person_data, 'suffix', null)) {
+                          name = name + ', ' + person_data.suffix;
+                      }
+                      let styling = {'text-decoration': "none"};
                       return (
                       <div key={person_idx} className="cell">
+                        <Link to={withPrefix(_.get(person_data, 'link', null))} style={styling}>
                         <div className="card team-member">
 
                           <div className="card__body">
                             <header className="card__header">
-                              <h3 className="h4 card__title">{person_data.first_name} {person_data.last_name}</h3>
+                              <h3 className="h4 card__title">{name}</h3>
                             </header>
-                            <footer className="card__footer">
-                            {person_data.email && (
-                                <a href={mailTo(person_data.email)}>{person_data.email}</a>
+                            {person_data.workplace && (
+                              <footer className="card__footer">
+                                <span>{person_data.workplace}</span>
+                              </footer>
                             )}
-                            </footer>
                           </div>
                         </div>
+                        </Link>
                       </div>
                       )
                   })}

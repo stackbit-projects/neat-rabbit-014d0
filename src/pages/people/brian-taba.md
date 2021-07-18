@@ -1,20 +1,20 @@
 ---
-title: Saarthak Sarup
+title: Brian Taba
 sections:
   - type: person_section
-    person_data_file: src/data/team/saarthak-sarup.yaml
+    person_data_file: src/data/alumni/brian-taba.yaml
 seo:
-  title: People | Saarthak Sarup
-  description: Saarthak's Homepage
+  title: People | Brian Taba
+  description: Brian's Homepage
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: People | Saarthak Sarup
+      value: People | Brian Taba
       keyName: property
     - name: 'og:description'
-      value: Saarthak's Homepage
+      value: Brian's Homepage
       keyName: property
 template: advanced
 ---

@@ -6,6 +6,7 @@ import {Link, withPrefix, classNames} from '../utils';
 export default class Action extends React.Component {
     render() {
         let action = _.get(this.props, 'action', null);
+        console.log(action)
         return (
             <Link to={withPrefix(_.get(action, 'url', null))}
               {...(_.get(action, 'new_window', null) ? ({target: '_blank'}) : null)}

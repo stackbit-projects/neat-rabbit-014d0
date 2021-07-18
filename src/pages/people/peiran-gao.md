@@ -1,20 +1,20 @@
 ---
-title: Saarthak Sarup
+title: Peiran Gao
 sections:
   - type: person_section
-    person_data_file: src/data/team/saarthak-sarup.yaml
+    person_data_file: src/data/alumni/peiran-gao.yaml
 seo:
-  title: People | Saarthak Sarup
-  description: Saarthak's Homepage
+  title: People | Peiran Gao
+  description: Peiran's Homepage
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: People | Saarthak Sarup
+      value: People | Peiran Gao
       keyName: property
     - name: 'og:description'
-      value: Saarthak's Homepage
+      value: Peiran's Homepage
       keyName: property
 template: advanced
 ---

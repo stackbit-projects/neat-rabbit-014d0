@@ -1,9 +1,11 @@
 id: kwabena-boahen
 link: people/kwabena-boahen
 first_name: Kwabena
-last_name: Boahen, PhD
+last_name: Boahen
+suffix: PhD
 email: boahen@stanford.edu
-photo: images/Kwabena-People_001.jpg
+photo: images/Kwabena-People_000.jpg
+card_photo: images/Kwabena-People_001.jpg
 photo_alt: Kwabena Boahen, PhD
 bio: >-
   Being a scientist at heart, I want to understand how cognition arises from
@@ -11,3 +13,4 @@ bio: >-
   integrated circuits to emulate the way neurons compute, linking the seemingly
   disparate fields of electronics and computer science with neurobiology and
   medicine.
+workplace: Principal Investigator

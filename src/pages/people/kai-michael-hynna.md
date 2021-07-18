@@ -1,20 +1,20 @@
 ---
-title: Saarthak Sarup
+title: Kai Michael Hynna
 sections:
   - type: person_section
-    person_data_file: src/data/team/saarthak-sarup.yaml
+    person_data_file: src/data/alumni/kai-michael-hynna.yaml
 seo:
-  title: People | Saarthak Sarup
-  description: Saarthak's Homepage
+  title: People | Kai Michael Hynna
+  description: Kai's Homepage
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: People | Saarthak Sarup
+      value: People | Kai Michael Hynna
       keyName: property
     - name: 'og:description'
-      value: Saarthak's Homepage
+      value: Kai's Homepage
       keyName: property
 template: advanced
 ---

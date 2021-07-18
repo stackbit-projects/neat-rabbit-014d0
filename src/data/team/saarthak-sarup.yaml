@@ -3,8 +3,10 @@ link: people/saarthak-sarup
 first_name: Saarthak
 last_name: Sarup
 email: ssarup@stanford.edu
-photo: images/saarthak-sarup.jpg
+photo: images/saarthak-sarup_small.jpg
+card_photo: images/saarthak-sarup.jpg
 photo_alt: Saarthak Sarup
 bio: >-
   Suspendisse ante mi, tincidunt sit amet odio sed, condimentum ultricies nunc.
   Nam iaculis commodo dui quis suscipit. Ut eu porttitor enim.
+workplace: PhD Candidate

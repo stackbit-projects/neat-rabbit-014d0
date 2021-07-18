@@ -1,6 +1,6 @@
 bio: "Computers have always fascinated me, and the brain is the ultimate computer.\
-  \ My goal is to develop computer architectures that are inspired by the brain\xEF\
-  \xBF\xBDs functional paradigms. Since these paradigms give rise to an incredibly\
+  \ My goal is to develop computer architectures that are inspired by the brain's\
+  \ functional paradigms. Since these paradigms give rise to an incredibly\
   \ efficient and feature-rich construct in our own biology, I believe that architectures\
   \ derived from this biology will share the same qualities."
 email: aneckar@stanford.edu
@@ -9,3 +9,6 @@ id: Alex-Neckar
 last_name: Neckar
 photo: images/AlexNeckarProfile.jpg
 photo_alt: Alex Neckar
+workplace: Founder, CTO of Femtosense
+linkedin: https://www.linkedin.com/in/alexander-neckar/
+link: /people/alex-neckar

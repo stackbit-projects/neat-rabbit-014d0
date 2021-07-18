@@ -1,7 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {getData, withPrefix, markdownify} from '../utils';
+import {Link, mailTo, getData, withPrefix, markdownify} from '../utils';
+import Action from './Action';
 
 export default class PersonSection extends React.Component {
     render() {
@@ -10,6 +11,14 @@ export default class PersonSection extends React.Component {
         if (_.get(section, 'person_data_file', null)) {
             person = getData(this.props.pageContext.site.data, _.get(section, 'person_data_file', null))
         }
+        let name = false
+        if (person) {
+            name = _.get(person, 'first_name', null) + ' ' + _.get(person, 'last_name', null)
+            if (_.get(person, 'suffix', null)) {
+                name = name + ', ' + person.suffix
+            }
+        }
+        let members_action = {'url': withPrefix('/about'), 'style': "secondary", 'label': 'View all members'}
         return (
             <section className="section section--person">
               <div className="container container--lg">
@@ -20,12 +29,29 @@ export default class PersonSection extends React.Component {
                   </div>
                   )}
                   <div class="section__body cell">
-                    <h2 className="section__title">{_.get(person, 'first_name', null)} {_.get(person, 'last_name', null)}</h2>
-                    {_.get(person, 'bio', null) && (
+                    <h2 className="section__title">{name}</h2>
+                    <div class="person">{person.workplace}</div>
                     <div className="section__copy">
-                      {markdownify(_.get(person, 'bio', null))}
+                      {_.get(person, 'bio', null) && (
+                        <div>
+                          {markdownify(person.bio)}
+                          <span>
+                            <span><strong>Contact</strong>: </span>
+                            {_.get(person, 'email', null) && (
+                              <span><a href={mailTo(person.email)}>Email</a></span>
+                            )}
+                            {_.get(person, 'personal_website', null) && (
+                              <span> | <Link to={person.personal_website}>Personal Website</Link></span>
+                            )}
+                            {_.get(person, 'linkedin', null) && (
+                              <span> | <Link to={person.linkedin}>LinkedIn</Link></span>
+                            )}
+                          </span>
+                        </div>
+                      )}
                     </div>
-                    )}
+                    <br/>
+                    <span><Action action={members_action}></Action></span>
                   </div>
                 </div>
               </div>

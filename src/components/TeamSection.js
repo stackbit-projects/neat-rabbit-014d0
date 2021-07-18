@@ -17,18 +17,24 @@ export default class TeamSection extends React.Component {
                 <div className="flex flex--col-3">
                   {_.map(_.get(section, 'team', null), (person, person_idx) => {
                       let person_data = getData(this.props.pageContext.site.data, person);
+                      let name = person_data.first_name + ' ' + person_data.last_name;
+                      if (_.get(person_data, 'suffix', null)) {
+                          name = name + ', ' + person_data.suffix;
+                      }
+                      let photo = person_data.card_photo ? person_data.card_photo : person_data.photo;
+                      let styling = {'text-decoration': "none"};
                       return (
                       <div key={person_idx} className="cell">
-                        <Link to={withPrefix(_.get(person_data, 'link', null))}>
+                        <Link to={withPrefix(_.get(person_data, 'link', null))} style={styling}>
                         <div className="card team-member">
-                        {person_data.photo && (
+                        {photo && (
                         <figure className="card__media card__media--bottom">
-                          <img src={withPrefix(person_data.photo)} alt={person_data.photo_alt} />
+                          <img src={withPrefix(photo)} alt={person_data.photo_alt} />
                         </figure>
                         )}
                           <div className="card__body">
                             <header className="card__header">
-                              <h3 className="h3 card__title">{person_data.first_name} {person_data.last_name}</h3>
+                              <h3 className="h3 card__title">{name}</h3>
                             </header>
                             <footer className="card__footer">
                             {person_data.email && (
