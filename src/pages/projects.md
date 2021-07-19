@@ -4,45 +4,47 @@ sections:
   - type: features_section
     title: Projects
     features:
-      - title: Project 1
+      - title: Compute-in-Memory with 3D NAND Flash
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          With the advent of data-hungry deep-learning methods, moving data
+          between memory and processors has become a significant bottleneck
+          to energy-efficient machine learning. The brain solves this problem
+          by co-localizing its memory storage and its compute, and we aim to
+          realize this mechanism using the architecture and subthreshold
+          dynamics of 3D NAND Flash.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /people
-            style: primary
-      - title: Project 2
+      - title: Sparse Signalling with Sequence-Selective Pyramidal Cells
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          The brain saves power when signalling between separated regions by
+          arranging neurons in three-dimensions, but must prevent cooking
+          its own cells by signalling sparsely. By decoding information
+          represented as sparse sequences of spikes instead of dense, high
+          bit-width activations, pyramidal cell circuits are able to communicate
+          combinatorially more bits of information under the same energy budget
+          as conventional ReLU layers.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-      - title: Project 3
+      - title: Geometry of Knowledge Graphs in Transformers
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Transformers like BERT and GPT-x are SoTA for natural language
+          processing and general sequence modeling, but at an incredibly steep
+          monetary and energetic price. After weeks of training and terabytes
+          of data, transformers learn a general graph to represent the
+          relationships between tokens in its dictionary. However, at inference,
+          transformers continue to treat this graph as a dynamic object and thus
+          recompute distance relationships between all pairwise tokens in its
+          context. Instead, we aim to extract its knowledge graph and embed it
+          within a static Graph Neural Network to perform more efficient
+          inference.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /blog
-            style: primary
 seo:
   title: Projects
   description: This is the projects page
