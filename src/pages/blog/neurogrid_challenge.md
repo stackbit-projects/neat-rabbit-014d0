@@ -1,6 +1,6 @@
 ---
-title: Neurogrid: The Challenge
-date: '2020-05-26'
+title: Neurogrid - The Challenge
+date: '2016-05-24'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
@@ -10,14 +10,14 @@ image_alt: Neuromorphic Chip
 excerpt: >-
   Neurogrid is part of a profound shift in computing, away from the sequential, step-by-step Von Neumann architecture towards a parallel, interconnected architecture more like the brain.
 seo:
-  title: Neurogrid: The Challenge
+  title: Neurogrid - The Challenge
   description: 'Neurogrid makes the computational power required to explore various hypotheses about how the cortex works affordable.'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Neurogrid: The Challenge
+      value: Neurogrid - The Challenge
       keyName: property
     - name: 'og:description'
       value: 'Neurogrid makes the computational power required to explore various hypotheses about how the cortex works affordable.'
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Neurogrid: The Challenge
+      value: Neurogrid - The Challenge
     - name: 'twitter:description'
       value: 'Neurogrid makes the computational power required to explore various hypotheses about how the cortex works affordable.'
     - name: 'twitter:image'

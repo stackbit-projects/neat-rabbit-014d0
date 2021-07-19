@@ -34,30 +34,17 @@ sections:
       - src/data/alumni/kareem-zagloul.yaml
       - src/data/alumni/brian-taba.yaml
 seo:
-  title: Who We Are
-  description: This is the about us page
+  title: People
+  description: These are current and past lab members
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Who We Are
+      value: People
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: These are current and past lab members
       keyName: property
-    - name: 'og:image'
-      value: images/1.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Who We Are
-    - name: 'twitter:description'
-      value: This is the about us page
-    - name: 'twitter:image'
-      value: images/1.png
-      relativeUrl: true
 template: advanced
 ---

@@ -20,18 +20,5 @@ seo:
     - name: 'og:description'
       value: This is the category archive page
       keyName: property
-    - name: 'og:image'
-      value: images/1.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Posts in General
-    - name: 'twitter:description'
-      value: This is the category archive page
-    - name: 'twitter:image'
-      value: images/1.png
-      relativeUrl: true
 template: advanced
 ---

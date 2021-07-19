@@ -15,7 +15,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: /people
             style: primary
       - title: Project 2
         content: >-

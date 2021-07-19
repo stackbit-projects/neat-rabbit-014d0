@@ -1,6 +1,6 @@
 ---
 title: Our Technology - Programmable Neural Silicon
-date: '2015-08-25'
+date: '2015-08-26'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml

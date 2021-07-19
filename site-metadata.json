@@ -3,7 +3,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "url": "/about",
+                "url": "/people",
                 "style": "link",
                 "label": "People"
             },
@@ -34,26 +34,14 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://github.com/Stanford-BIS",
                 "style": "link",
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
     },
-    "title": "Stackbit Starter Theme",
-    "domain": "https://neat-rabbit-014d0.netlify.app"
+    "title": "Brains in Silicon Lab",
+    "domain": "https://brainsinsilicon.stanford.edu"
 }

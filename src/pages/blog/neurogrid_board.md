@@ -1,6 +1,6 @@
 ---
-title: Neurogrid: The Board
-date: '2020-05-25'
+title: Neurogrid - The Board
+date: '2016-05-25'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
@@ -10,14 +10,14 @@ image_alt: Neuromorphic Chip
 excerpt: >-
   Recent breakthroughs in neuromorphic engineering make it possible to combine analog's parallel operation with digital's programmability, reaping the best of both worlds.
 seo:
-  title: Neurogrid: The Board
+  title: Neurogrid - The Board
   description: 'Neurogrid simulates one million neurons with two subcellular compartments each.'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Neurogrid: The Board
+      value: Neurogrid - The Board
       keyName: property
     - name: 'og:description'
       value: 'Neurogrid simulates one million neurons with two subcellular compartments each.'
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Neurogrid: The Board
+      value: Neurogrid - The Board
     - name: 'twitter:description'
       value: 'Neurogrid simulates one million neurons with two subcellular compartments each.'
     - name: 'twitter:image'

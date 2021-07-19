@@ -1,6 +1,6 @@
 ---
-title: Neurogrid: The Core
-date: '2020-05-25'
+title: Neurogrid - The Core
+date: '2016-05-26'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
@@ -10,14 +10,14 @@ image_alt: Neuromorphic Chip
 excerpt: >-
   Creating and simulating cortical models on Neurogrid is straightforward--you describe your neural model by writing a Python script.
 seo:
-  title: Neurogrid: The Core
+  title: Neurogrid - The Core
   description: 'Creating and simulating cortical models on Neurogrid is straightforward.'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Neurogrid: The Core
+      value: Neurogrid - The Core
       keyName: property
     - name: 'og:description'
       value: 'Creating and simulating cortical models on Neurogrid is straightforward.'
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Neurogrid: The Core
+      value: Neurogrid - The Core
     - name: 'twitter:description'
       value: 'Creating and simulating cortical models on Neurogrid is straightforward.'
     - name: 'twitter:image'
