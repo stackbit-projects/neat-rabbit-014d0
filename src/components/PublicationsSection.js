@@ -7,11 +7,9 @@ export default class ContentSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let pubData = getData(this.props.pageContext.site.data, _.get(section, 'pubFile', null));
-        // let header_tags = _.map(_.keys(pubData), (key) => { return # + key}))
-        console.log(_.keys(pubData));
         return (
             <section className="section">
-              <div className="container container--md">
+              <div className="container container--md align-center">
                   {_.get(section, 'title', null) && (
                   <h2 className="section__title">{_.get(section, 'title', null)}</h2>
                   )}

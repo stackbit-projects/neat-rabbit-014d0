@@ -630,6 +630,21 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  about_lab_section:
+    type: object
+    label: About Lab Section
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: list
+        name: about_posts
+        label: About Posts
+        items:
+          type: slug
+          name: slug
+          label: Slug
   timeline_section:
     type: object
     label: Timeline Section

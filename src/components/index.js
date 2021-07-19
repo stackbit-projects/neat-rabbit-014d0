@@ -15,6 +15,7 @@ import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
 import AlumniSection from './AlumniSection';
 import PersonSection from './PersonSection';
+import AboutLabSection from './AboutLabSection';
 import TimelineSection from './TimelineSection';
 import PublicationsSection from './PublicationsSection';
 import Layout from './Layout';
@@ -37,6 +38,7 @@ export {
     TeamSection,
     AlumniSection,
     PersonSection,
+    AboutLabSection,
     TimelineSection,
     PublicationsSection,
     Layout
@@ -60,6 +62,7 @@ export default {
     TeamSection,
     AlumniSection,
     PersonSection,
+    AboutLabSection,
     TimelineSection,
     PublicationsSection,
     Layout

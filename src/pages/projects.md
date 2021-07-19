@@ -1,18 +1,8 @@
 ---
 title: Projects
 sections:
-  - type: hero_section
-    title: Projects
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    align: center
-    has_background: true
-    background:
-      background_color: white
-      background_image_opacity: 90
-      background_image_size: cover
-      background_image_repeat: no-repeat
-      background_image: images/201c-600x600.png
   - type: features_section
+    title: Projects
     features:
       - title: Project 1
         content: >-
@@ -54,30 +44,17 @@ sections:
             url: /blog
             style: primary
 seo:
-  title: Features
-  description: This is the features page
+  title: Projects
+  description: This is the projects page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Projects
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: This is the projects page
       keyName: property
-    - name: 'og:image'
-      value: images/5.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Features
-    - name: 'twitter:description'
-      value: This is the features page
-    - name: 'twitter:image'
-      value: images/5.png
-      relativeUrl: true
 template: advanced
 ---

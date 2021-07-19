@@ -1,10 +1,8 @@
 ---
 title: Blog
 sections:
-  - type: hero_section
-    title: Blog
-    align: center
   - type: blog_feed_section
+    title: Blog
     show_recent: false
 seo:
   title: Blog

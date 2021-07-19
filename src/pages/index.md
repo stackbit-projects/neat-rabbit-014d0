@@ -18,10 +18,13 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: timeline_section
-  - type: blog_feed_section
+  - type: about_lab_section
     title: About Us
-    show_recent: true
-    recent_count: 3
+    about_posts:
+      - 'blog/our_objective.md'
+      - 'blog/our_approach.md'
+      - 'blog/our_technology.md'
+
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme

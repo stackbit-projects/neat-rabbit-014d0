@@ -1,11 +1,11 @@
 ---
 title: Our Approach - A Third Alternative for Computation
-date: '2020-05-30'
+date: '2015-08-25'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image: 
+image:
 image_alt: Post 4 placeholder image
 excerpt: >-
   Computers' inherent limitations as neural simulation platforms are addressed by neuromorphic chips: Their fundamental component is not a logic gate but a silicon neuron.

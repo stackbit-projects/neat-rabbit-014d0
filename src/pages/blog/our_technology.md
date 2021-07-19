@@ -1,11 +1,11 @@
 ---
 title: Our Technology - Programmable Neural Silicon
-date: '2020-05-28'
+date: '2015-08-25'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image: 
+image:
 image_alt: Neuromorphic Chip
 excerpt: >-
   A computer that executes one instruction every time the brain activates a synapse would consume a hundred megawatts!

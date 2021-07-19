@@ -1,6 +1,6 @@
 ---
 title: Our Objectives - Three Complementary Approaches
-date: '2020-06-02'
+date: '2015-08-24'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
