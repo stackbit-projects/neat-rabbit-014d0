@@ -2,14 +2,14 @@
 title: Projects
 sections:
   - type: features_section
-    title: Projects
+    title: Current Projects
     features:
       - title: Compute-in-Memory with 3D NAND Flash
         content: >-
           With the advent of data-hungry deep-learning methods, moving data
-          between memory and processors has become a significant bottleneck
-          to energy-efficient machine learning. The brain solves this problem
-          by co-localizing its memory storage and its compute, and we aim to
+          between memory and processors has become a significant bottleneck to
+          energy-efficient machine learning. The brain solves this problem by
+          co-localizing its memory storage and its compute, and we aim to
           realize this mechanism using the architecture and subthreshold
           dynamics of 3D NAND Flash.
         align: left
@@ -19,10 +19,10 @@ sections:
       - title: Sparse Signalling with Sequence-Selective Pyramidal Cells
         content: >-
           The brain saves power when signalling between separated regions by
-          arranging neurons in three-dimensions, but must prevent cooking
-          its own cells by signalling sparsely. By decoding information
-          represented as sparse sequences of spikes instead of dense, high
-          bit-width activations, pyramidal cell circuits are able to communicate
+          arranging neurons in three-dimensions, but must prevent cooking its
+          own cells by signalling sparsely. By decoding information represented
+          as sparse sequences of spikes instead of dense, high bit-width
+          activations, pyramidal cell circuits are able to communicate
           combinatorially more bits of information under the same energy budget
           as conventional ReLU layers.
         align: left
@@ -33,8 +33,8 @@ sections:
         content: >-
           Transformers like BERT and GPT-x are SoTA for natural language
           processing and general sequence modeling, but at an incredibly steep
-          monetary and energetic price. After weeks of training and terabytes
-          of data, transformers learn a general graph to represent the
+          monetary and energetic price. After weeks of training and terabytes of
+          data, transformers learn a general graph to represent the
           relationships between tokens in its dictionary. However, at inference,
           transformers continue to treat this graph as a dynamic object and thus
           recompute distance relationships between all pairwise tokens in its
