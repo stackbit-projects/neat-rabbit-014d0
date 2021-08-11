@@ -32,7 +32,7 @@ export default class PersonSection extends React.Component {
                     <h2 className="section__title">{name}</h2>
                     <div class="person">{person.workplace}</div>
                     <div className="section__copy">
-                      {_.get(person, 'bio', null) && (
+                      
                         <div>
                           {markdownify(person.bio)}
                           <span>
