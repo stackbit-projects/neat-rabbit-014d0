@@ -25,7 +25,6 @@ sections:
           combinatorially more bits of information under the same energy budget
           as conventional ReLU layers.
         align: left
-        image: images/feature.svg
         image_alt: Feature 2 placeholder image
         image_position: left
       - title: Geometry of Knowledge Graphs in Transformers
