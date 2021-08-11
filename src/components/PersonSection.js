@@ -48,7 +48,6 @@ export default class PersonSection extends React.Component {
                             )}
                           </span>
                         </div>
-                      )}
                     </div>
                     <br/>
                     <span><Action action={members_action}></Action></span>
