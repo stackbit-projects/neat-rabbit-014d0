@@ -13,7 +13,6 @@ sections:
           realize this mechanism using the architecture and subthreshold
           dynamics of 3D NAND Flash.
         align: left
-        image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
       - title: Sparse Signalling with Sequence-Selective Pyramidal Cells
