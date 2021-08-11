@@ -33,7 +33,7 @@ export default class PersonSection extends React.Component {
                     <div class="person">{person.workplace}</div>
                     <div className="section__copy">
                         <div>
-                          {_.get(person, 'bio', null) && (<span>{markdownify(person.bio)}}
+                          {_.get(person, 'bio', null) && (<span>{markdownify(person.bio)}</span>)}
                           <span>
                             <span><strong>Contact</strong>: </span>
                             {_.get(person, 'email', null) && (
