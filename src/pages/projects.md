@@ -40,7 +40,6 @@ sections:
           within a static Graph Neural Network to perform more efficient
           inference.
         align: left
-        image: images/feature.svg
         image_alt: Feature 3 placeholder image
         image_position: right
 seo:
