@@ -48,6 +48,7 @@ sections:
           concurrently.
         align: left
         image_position: left
+        image: images/compute_in_memory.png
       - title: Event-Based Vision Sensors
         content: >
           Retinomorphic cameras preprocess their photodetectors’ signals to
