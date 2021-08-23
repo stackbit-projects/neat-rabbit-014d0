@@ -18,7 +18,7 @@ export default class FeaturesSection extends React.Component {
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className={classNames('flex', 'flex--middle', 'flex--center', 'flex--col-2', {'align-center': _.get(feature, 'align', null) === 'center', 'align-right': _.get(feature, 'align', null) === 'right'})}>
                   {_.get(feature, 'image', null) && (
-                  <div className={classNames('cell', 'section__media', {'section__media--right': _.get(feature, 'image_position', null) === 'right'})}>
+                  <div className={classNames('cell', 'section__media2', {'section__media--right': _.get(feature, 'image_position', null) === 'right'})}>
                     <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
                   </div>
                   )}

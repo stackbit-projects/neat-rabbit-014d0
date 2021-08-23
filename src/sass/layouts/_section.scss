@@ -34,9 +34,13 @@
 }
 
 .section__media,
+.section__media2,
 .section__body {
-  text-align: center;
   position: relative;
+}
+
+.section__media2 {
+    text-align: center;
 }
 
 .section__actions {
