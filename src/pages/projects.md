@@ -25,7 +25,6 @@ sections:
           of neurons––and thus be thermally viable in 3D.
         align: left
         image_position: right
-        image: images/silicon_brain.png
       - title: Compute in Memory
         content: >-
           A deep net _infers_ a response to a stimulus by multiplying a vector
