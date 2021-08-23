@@ -4,7 +4,7 @@ sections:
   - type: features_section
     title: Current Projects
     features:
-      - title: Silicon Brain
+      - title: <u>Silicon Brain</u>
         content: >-
           Artificial intelligence benefited from shrinking transistors and
           connecting them densely in two dimensions to reduce the energy cost of
