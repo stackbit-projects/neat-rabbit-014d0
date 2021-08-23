@@ -5,7 +5,9 @@ sections:
     title: We're emulating the brain —
     title2: in silicon
     subtitle: >-
-      We build silicon chips that combine analog computation with digital communication, emulating the brain's unique mix of analog and digital techniques.
+      We are reverse-engineering the computing brain—linking the seemingly
+      disparate fields of electrical engineering and computer science with
+      neurobiology and medicine.
     actions: []
     align: left
     image_alt: Hero placeholder image
@@ -21,10 +23,9 @@ sections:
   - type: about_lab_section
     title: About Us
     about_posts:
-      - 'blog/our_objective.md'
-      - 'blog/our_approach.md'
-      - 'blog/our_technology.md'
-
+      - blog/our_objective.md
+      - blog/our_approach.md
+      - blog/our_technology.md
 seo:
   title: Brains in Silicon Homepage
   description: The homepage for Stanford's Brains in Silicon Lab
