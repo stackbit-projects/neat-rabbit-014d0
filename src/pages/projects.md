@@ -70,7 +70,6 @@ sections:
           (approx. 1G eps).
         align: left
         image_position: right
-        image: images/h_tree.png
 seo:
   title: Projects
   description: This is the projects page
