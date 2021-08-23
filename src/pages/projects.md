@@ -55,17 +55,17 @@ sections:
           (equivalent) frame-rate and a shorter latency. In the row-column
           architecture event-based vision sensors currently use, however,
           latency and jitter (its standard deviation) increase nearly a
-          thousandfold when spike rate exceeds row-readout rate (~6M eps). This
-          shortcoming may be rectified by taking advantage of two-chip stacking
-          in state-of-the-are CMOS image sensor fabrication processes:
-          Photodetectors reside on one chip and a metal bump connects delivers
-          each photosignal to another chip. That allows us to move the
+          thousandfold when spike rate exceeds row-readout rate (approx. 6M
+          eps). This shortcoming may be rectified by taking advantage of
+          two-chip stacking in state-of-the-are CMOS image sensor fabrication
+          processes: Photodetectors reside on one chip and a metal bump connects
+          delivers each photosignal to another chip. That allows us to move the
           event-based readout’s asynchronous logic circuitry from the periphery
           into the array without sacrificing the fill-factor. This
           network-on-a-chip, laid out in a 2D fractal pattern (H-tree), reduces
           decreases latency and jitter by three to four orders-of-magnitude—they
           become significant only when spike rate approaches output bandwidth
-          (~1G eps).
+          (approx. 1G eps).
         align: left
         image_position: right
 seo:
