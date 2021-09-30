@@ -1,6 +1,6 @@
 ---
 title: Neurogrid - The Board
-date: '2016-05-25'
+date: '2015-05-25'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml

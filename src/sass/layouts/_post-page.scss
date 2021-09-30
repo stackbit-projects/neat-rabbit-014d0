@@ -40,3 +40,18 @@
     }
   }
 }
+
+.post__figure {
+    background-color: #EEEEEE;
+    overflow: auto;
+    padding: 1rem;
+    figcaption {
+        font-size: smaller;
+    }
+}
+
+figure img {
+  float: left;
+  width: 40%;
+  margin: 0 1em 1em 0;
+}

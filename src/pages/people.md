@@ -31,7 +31,7 @@ sections:
       - src/data/alumni/sridhar-devarajan.yaml
       - src/data/alumni/bo-wen.yaml
       - src/data/alumni/kai-michael-hynna.yaml
-      - src/data/alumni/kareem-zagloul.yaml
+      - src/data/alumni/kareem-zaghloul.yaml
       - src/data/alumni/brian-taba.yaml
 seo:
   title: People

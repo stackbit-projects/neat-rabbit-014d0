@@ -41,7 +41,7 @@ export default class Post extends React.Component {
                         return (
                           author.link ? (
                             <span> by <Link to={withPrefix(author.link)}>{author.first_name} {author.last_name}</Link></span>
-                          ) : 
+                          ) :
                             <span> by {author.first_name} {author.last_name}</span>
                         );
                     })())}
@@ -49,6 +49,18 @@ export default class Post extends React.Component {
                 </header>
                 <div className="post__copy">
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
+                </div>
+                <div>
+                    {_.get(this.props, 'pageContext.frontmatter.figure', null) && (
+                    <div className="post__figure">
+                      <figure>
+                        <img src={withPrefix(_.get(this.props, 'pageContext.frontmatter.figure', null))} alt={_.get(this.props, 'pageContext.frontmatter.figure_alt', null)} />
+                        {_.get(this.props, 'pageContext.frontmatter.figure_caption', null) && (
+                            <figcaption>{htmlToReact(_.get(this.props, 'pageContext.frontmatter.figure_caption'))}</figcaption>
+                        )}
+                      </figure>
+                    </div>
+                    )}
                 </div>
                 {_.get(this.props, 'pageContext.frontmatter.tags', null) && (
                 <footer className="post__footer">

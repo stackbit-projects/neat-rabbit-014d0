@@ -1,6 +1,6 @@
 ---
 title: Neurogrid - The Core
-date: '2016-05-26'
+date: '2015-05-26'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
