@@ -5,7 +5,7 @@ author: src/data/alumni/kai-michael-hynna.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/introAni_ThalBurst.gif
 image_alt:
 figure: images/introAni_ThalBurst.gif
 figure_caption: >-

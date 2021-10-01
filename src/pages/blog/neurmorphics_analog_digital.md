@@ -5,7 +5,7 @@ author: src/data/alumni/ben-varkey-benjamin.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/spaun.png
 image_alt:
 figure: images/spaun.png
 figure_caption: >-

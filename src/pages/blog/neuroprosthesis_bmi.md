@@ -5,7 +5,7 @@ author: src/data/alumni/samir-menon.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/brainsinsilicon_neuromorphics_clip_no_border.gif
 image_alt:
 figure: images/brainsinsilicon_neuromorphics_clip_no_border.gif
 figure_caption: >-

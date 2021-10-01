@@ -19,7 +19,7 @@ sections:
           - blog/attention_synchrony.md
           - blog/audition_spike_precision.md
         paper_ids:
-          - C51
+          - C53
           - J39
           - C41
           - J34
@@ -36,10 +36,10 @@ sections:
           - blog/vision_efficiency.md
           - blog/computation_nef.md
         paper_ids:
-          - C51
-          - J39
-          - C41
-          - J34
+          - C52
+          - J43
+          - C45
+          - C49
       - title: Emulating Neural Circuits in Silicon
         content: >
           Retinomorphic cameras preprocess their photodetectors’ signals to
@@ -53,10 +53,10 @@ sections:
           - blog/growing_circuits.md
           - blog/neurogrid_board.md
         paper_ids:
-          - C51
-          - J39
-          - C41
-          - J34
+          - J44
+          - J41
+          - C42
+          - C40
 seo:
   title: Research
   description: This is the research page

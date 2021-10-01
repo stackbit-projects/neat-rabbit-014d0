@@ -5,7 +5,7 @@ author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/fastint1.gif
 image_alt: Post 4 placeholder image
 excerpt: >-
   Computers' inherent limitations as neural simulation platforms are addressed by neuromorphic chips: Their fundamental component is not a logic gate but a silicon neuron.

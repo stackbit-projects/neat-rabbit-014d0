@@ -5,7 +5,7 @@ author: src/data/alumni/tatiana-engel.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/potential_well_schematic1.png
 image_alt:
 figure: images/potential_well_schematic1.png
 figure_caption: >-

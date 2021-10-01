@@ -5,7 +5,7 @@ author: src/data/alumni/john-h-wittig-jr.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/JWtstellate_001.gif
 image_alt:
 figure: images/JWtstellate_001.gif
 figure_caption: >-

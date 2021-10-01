@@ -5,7 +5,7 @@ author: src/data/alumni/brian-taba.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/peoBrianEvo_000.gif
 image_alt:
 figure: images/peoBrianEvo_000.gif
 figure_caption: >-

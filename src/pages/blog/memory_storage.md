@@ -5,7 +5,7 @@ author: src/data/alumni/john-v-arthur.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/memorylg.gif
 image_alt:
 figure: images/memorylg.gif
 figure_caption: >-

@@ -5,7 +5,7 @@ author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/1_001.jpg
 image_alt: Neuromorphic Chip
 excerpt: >-
   A computer that executes one instruction every time the brain activates a synapse would consume a hundred megawatts!

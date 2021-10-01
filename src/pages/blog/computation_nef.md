@@ -5,7 +5,7 @@ author: src/data/alumni/sam-fok.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/ngNEFSystem.png
 image_alt:
 figure: images/ngNEFSystem.png
 figure_caption: >-

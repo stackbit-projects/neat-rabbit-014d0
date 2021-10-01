@@ -5,7 +5,7 @@ author: src/data/alumni/kareem-zaghloul.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/peoKareem_Ani1_000.gif
 image_alt:
 figure: images/peoKareem_Ani1_000.gif
 figure_caption: >-

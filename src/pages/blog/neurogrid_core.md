@@ -5,8 +5,11 @@ author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
+image: images/flashConn.gif
 image_alt: Neuromorphic Chip
+figure: images/flashConn.gif
+figure_caption: >-
+  <b>Anatomy of a Cortical Model.</b> Projections between the sensory (V4) and executive (FEF) areas' excitatory (Exc) and inhibitory (Inh) populations are depicted as animated arcs: FEF's Exc neurons are recurrently connected with each other and reciprocally connected with FEF Inh neurons. They also provide modulatory feedback to V4 Exc neurons, which are excited by external stimuli and inhibited by V4 Inh neurons. Actual connections are point-to-point: An axon arborizes in the target layer (dark profile), its synapses decaying in strength with distance from the center (fading). The four populations have 128x128 neuron each—a total of 65 thousand neurons and 70 million synaptic connections. [Nick Steinmetz 2011]
 excerpt: >-
   Creating and simulating cortical models on Neurogrid is straightforward--you describe your neural model by writing a Python script.
 seo:
