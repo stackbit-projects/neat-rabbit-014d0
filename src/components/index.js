@@ -18,6 +18,7 @@ import PersonSection from './PersonSection';
 import AboutLabSection from './AboutLabSection';
 import TimelineSection from './TimelineSection';
 import PublicationsSection from './PublicationsSection';
+import ResearchSection from './ResearchSection';
 import Layout from './Layout';
 
 export {
@@ -41,6 +42,7 @@ export {
     AboutLabSection,
     TimelineSection,
     PublicationsSection,
+    ResearchSection,
     Layout
 };
 
@@ -65,5 +67,6 @@ export default {
     AboutLabSection,
     TimelineSection,
     PublicationsSection,
+    ResearchSection,
     Layout
 };

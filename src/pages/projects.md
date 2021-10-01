@@ -4,7 +4,7 @@ sections:
   - type: features_section
     title: Current Projects
     features:
-      - title: Silicon Brain
+      - title: Primitives/Codes - Spike Sequence Coding
         content: >-
           Artificial intelligence benefited from shrinking transistors and
           connecting them densely in two dimensions to reduce the energy cost of
@@ -26,7 +26,7 @@ sections:
         align: left
         image_position: right
         image: images/silicon_brain-fa87a4f9.png
-      - title: Compute in Memory
+      - title: Scalable Systems - Compute in Memory
         content: >-
           A deep net _infers_ a response to a stimulus by multiplying a vector
           that comprises activations of all units in a layer by a matrix that
@@ -49,7 +49,7 @@ sections:
         align: left
         image_position: left
         image: images/compute_in_memory.png
-      - title: Event-Based Vision Sensors
+      - title: Emulating Neural Circuits - Event-Based Vision Sensors
         content: >
           Retinomorphic cameras preprocess their photodetectors’ signals to
           produce spatiotemporally sparse “spikes”. Event-based—as opposed to

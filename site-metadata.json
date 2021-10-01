@@ -13,6 +13,11 @@
                 "style": "link"
             },
             {
+                "label": "Research",
+                "url": "/research",
+                "style": "link"
+            },
+            {
                 "label": "Projects",
                 "url": "/projects",
                 "style": "link"
