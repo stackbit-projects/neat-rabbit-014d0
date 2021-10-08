@@ -10,7 +10,7 @@ sections:
       neurobiology and medicine.
     actions: []
     align: left
-    image_alt: Hero placeholder image
+    image_alt: Stanford red image
     image_position: right
     has_background: true
     background:
