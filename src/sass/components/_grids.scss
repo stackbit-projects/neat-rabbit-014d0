@@ -40,9 +40,23 @@
   }
 }
 
+.masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -20px; /* gutter size offset */
+  width: auto;
+}
+.masonry-grid_col {
+  padding-left: 20px; /* gutter size */
+  background-clip: padding-box;
+}
+
 @include media-breakpoint-down(md) {
   .flex--col-2,
-  .flex--col-3 {
+  .flex--col-3,
+  .masonry-grid,
+  .masonry-grid_col {
     .cell {
       flex: 0 0 100%;
       max-width: 100%;

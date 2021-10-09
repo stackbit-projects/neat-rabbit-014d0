@@ -1,12 +1,15 @@
 ---
 title: Our Objectives - Three Complementary Approaches
 date: '2015-08-24'
-author: src/data/team/kwabena-boahen.yaml
+author: src/data/alumni/john-h-wittig-jr.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image:
-image_alt: Post 5 placeholder image
+image: images/patchanimation.gif
+image_alt: Patch Animation
+figure: images/patchanimation.gif
+figure_caption: >-
+  <b>Studying Neurons. </b>Physiologists eavesdrop on the electrical life of cells using the patch-clamp (right); it can also mimic the effect of synaptic transmission (left). The information they gather about the cell's behavior is summarized in a model (overlaid) consisting of batteries, variable resistors, and a capacitor, primitives borrowed from electrical engineers that are readily assembled on a chip—using transistors in place of resistors [John Wittig 2004].
 excerpt: >-
   In their quest to understand how cognition emerges at the behavioral level from mechanisms at the molecular level, researchers have pursued three approaches: Experiment, Theory, and Computation.
 seo:
@@ -23,7 +26,7 @@ seo:
       value: 'Experiment, Theory, and Computation'
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: images/patchanimation.gif
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: 'Experiment, Theory, and Computation'
     - name: 'twitter:image'
-      value: images/5.png
+      value: images/patchanimation.gif
       relativeUrl: true
 template: post
 ---

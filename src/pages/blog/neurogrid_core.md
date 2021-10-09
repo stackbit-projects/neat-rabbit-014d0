@@ -1,7 +1,7 @@
 ---
 title: Neurogrid - The Core
 date: '2015-05-26'
-author: src/data/team/kwabena-boahen.yaml
+author: src/data/alumni/nick-steinmetz.yaml
 categories:
   - src/data/categories/general.yaml
 tags:

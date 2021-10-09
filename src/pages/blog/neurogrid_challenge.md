@@ -1,7 +1,7 @@
 ---
 title: Neurogrid - The Challenge
-date: '2015-05-24'
-author: src/data/team/kwabena-boahen.yaml
+date: '2015-05-25'
+author: src/data/team/nick-steinmetz.yaml
 categories:
   - src/data/categories/general.yaml
 tags:

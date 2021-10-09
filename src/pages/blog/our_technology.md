@@ -7,6 +7,9 @@ categories:
 tags:
 image: images/1_001.jpg
 image_alt: Neuromorphic Chip
+figure: images/1_001.jpg
+figure_caption: >-
+  <b>Neuromorphic chip.</b> This tiny chip—packaged in black plastic and mounted on a printed circuit board—models 1,024 excitatory pyramidal cells and 256 inhibitory basket cells. Their cellular properties and synaptic organization are downloaded to the chip over a USB link, which also allows their activity to be visualized in real-time. [Emily Nathan 2007]
 excerpt: >-
   A computer that executes one instruction every time the brain activates a synapse would consume a hundred megawatts!
 seo:
@@ -23,7 +26,7 @@ seo:
       value: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties'
       keyName: property
     - name: 'og:image'
-      value: images/3.png
+      value: images/1_001.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: 'Neuromorphic chips were pioneered by Carver Mead in the late eighties'
     - name: 'twitter:image'
-      value: images/3.png
+      value: images/1_001.jpg
       relativeUrl: true
 template: post
 ---

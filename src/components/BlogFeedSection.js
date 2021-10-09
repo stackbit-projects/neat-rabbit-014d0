@@ -1,4 +1,5 @@
 import React from 'react';
+import Masonry from 'react-masonry-css';
 import _ from 'lodash';
 
 import {getData, getPages} from '../utils';
@@ -20,6 +21,11 @@ export default class BlogFeedSection extends React.Component {
         if (_.get(section, 'category', null)) {
              section_category = getData(this.props.pageContext.site.data, _.get(section, 'category', null));
         }
+        const breakpointColumnsObj = {
+          default: 3,
+          900: 2,
+          600: 1
+        };
         return (
             <section className="section section--posts">
               {_.get(section, 'title', null) && (
@@ -28,7 +34,7 @@ export default class BlogFeedSection extends React.Component {
               </div>
               )}
               <div className="container container--lg">
-                <div className="flex flex--col-3">
+                <Masonry breakpointCols={breakpointColumnsObj} className="masonry-grid" columnClassName="masonry-grid_col">
                   {_.map(posts_sorted, (post, post_idx) => {
                       let is_post = false;
                       if ((_.get(post, 'frontmatter.template', null) === 'post')) {
@@ -43,9 +49,10 @@ export default class BlogFeedSection extends React.Component {
                         })())}
                       </React.Fragment>)
                   })}
-                </div>
+                </Masonry>
               </div>
             </section>
         );
     }
 }
+// <Masonry breakpointCols={3} className="masonry-grid" columnClassName="masonry-grid_col">
