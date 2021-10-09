@@ -1,7 +1,7 @@
 ---
 title: Neurogrid - The Board
 date: '2015-05-24'
-author: src/data/team/rodrigo-alvarez-icaza.yaml
+author: src/data/alumni/rodrigo-alvarez-icaza.yaml
 categories:
   - src/data/categories/general.yaml
 tags:

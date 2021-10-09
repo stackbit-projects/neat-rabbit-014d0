@@ -51,7 +51,7 @@ export default class SeeMoreResearch extends React.Component {
         return (
             <div>
                 {this.state.isToggleOn ?
-                    <div>
+                    <div className="post__figure">
                         {moreinfo}
                         <button className="btn btn--red" onClick={this.handleClick}>See Less &#8593;</button>
                     </div> : <div>
