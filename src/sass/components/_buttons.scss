@@ -48,10 +48,44 @@ input[type="reset"],
   width: 1.25em;
 }
 
+.btn--icon--secondary {
+  align-items: center;
+  display: inline-flex;
+  font-size: 1.5em;
+  height: 1.25em;
+  justify-content: center;
+  line-height: 1.25em;
+  padding: 0;
+  position: relative;
+  width: 1.25em;
+
+  background-color: transparent;
+  border-color: $color-btn-alt-border;
+  color: $color-btn-alt;
+  left: 50%;
+}
+
+
 .btn--clear {
   background: 0;
   border: 0;
   color: $color-btn-clear;
+  position: relative;
+  left: 50%
+
+  &:hover,
+  &:focus,
+  &:active {
+    opacity: 1;
+  }
+}
+
+.btn--red {
+  background: 0;
+  border: 0;
+  color: $color-btn-alt;
+  position: relative;
+  left: 50%
 
   &:hover,
   &:focus,

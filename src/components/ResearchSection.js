@@ -1,8 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {Link, classNames, withPrefix, markdownify} from '../utils';
+import {classNames, withPrefix, markdownify} from '../utils';
 import {getData, getPages} from '../utils';
+import SeeMoreResearch from './SeeMoreResearch.js';
 
 export default class ResearchSection extends React.Component {
     render() {
@@ -54,36 +55,8 @@ export default class ResearchSection extends React.Component {
                       {markdownify(_.get(feature, 'content', null))}
                     </div>
                     )}
-                    <div>
-                        <div>
-                            <h4 className="section__subtitle">Recent Publications</h4>
-                            <ul>
-                                {_.map(feature_pubs[feature_idx], (entry, entry_idx) => {
-                                    return (
-                                        <li key={entry_idx}>
-                                          {entry.raw && (markdownify(entry.raw.substring(0, entry.raw.length-6) + ' <a href={withPrefix(entry.href)} target="_blank" rel="noreferrer">PDF</a></div>'))}
+                    <SeeMoreResearch key={feature_idx} {...this.props} pubs={feature_pubs[feature_idx]} posts={feature_posts[feature_idx]} />
 
-                                        </li>
-                                    )
-                                })}
-                            </ul>
-                        </div>
-                        <div className="section__miniposts">
-                            <h4 className="section__subtitle">Recent Posts</h4>
-                            <ul>
-                            {_.map(feature_posts[feature_idx], (post, post_idx) => {
-                                let title = post.frontmatter.title
-                                let excerpt = post.frontmatter.excerpt
-                                return (
-                                    <li key={post_idx}>
-                                        <Link to={withPrefix(_.get(post, 'url', null))} >{title}</Link>
-                                        <em> - {excerpt}</em>
-                                    </li>
-                                )
-                            })}
-                            </ul>
-                        </div>
-                    </div>
 
                   </div>
                 </div>
@@ -93,3 +66,34 @@ export default class ResearchSection extends React.Component {
         );
     }
 }
+
+// <div>
+//     <div>
+//         <h4 className="section__subtitle">Recent Publications</h4>
+//         <ul>
+//             {_.map(feature_pubs[feature_idx], (entry, entry_idx) => {
+//                 return (
+//                     <li key={entry_idx}>
+//                       {entry.raw && (markdownify(entry.raw.substring(0, entry.raw.length-6) + ' <a href={withPrefix(entry.href)} target="_blank" rel="noreferrer">PDF</a></div>'))}
+//
+//                     </li>
+//                 )
+//             })}
+//         </ul>
+//     </div>
+//     <div className="section__miniposts">
+//         <h4 className="section__subtitle">Recent Posts</h4>
+//         <ul>
+//         {_.map(feature_posts[feature_idx], (post, post_idx) => {
+//             let title = post.frontmatter.title
+//             let excerpt = post.frontmatter.excerpt
+//             return (
+//                 <li key={post_idx}>
+//                     <Link to={withPrefix(_.get(post, 'url', null))} >{title}</Link>
+//                     <em> - {excerpt}</em>
+//                 </li>
+//             )
+//         })}
+//         </ul>
+//     </div>
+// </div>
