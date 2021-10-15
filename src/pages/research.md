@@ -7,12 +7,11 @@ sections:
     features:
       - title: Discovering Primitives and Codes in Neuroscience
         content: >-
-          A deep net _infers_ a response to a stimulus by multiplying a vector
-          that comprises activations of all units in a layer by a matrix that
-          comprises weights of all connections from that layer to the next
-          layer, repeating these calculations for each tier of connections.
-          Communicating weights to and fro, between memory and processor,
-          consumes by far the most energy.
+          A constant chattering of 80 billion neurons through 100 trillion synapses
+          could easily overheat our dense brains. Instead, each neuron must
+          spike sparingly, using each spike to carry as many bits as possible.
+          This series of projects explore how efficiently spike activity carries
+          information, and how robustly neuronal structures decode that representation.
         align: left
         posts:
           - blog/attention_bursts.md
@@ -21,42 +20,48 @@ sections:
         paper_ids:
           - C53
           - J39
-          - C41
           - J34
+          - C34
       - title: Designing Scalable Systems
         content: >-
-          Artificial intelligence benefited from shrinking transistors and
-          connecting them densely in two dimensions to reduce the energy cost of
-          calculating. Now the energy cost of signaling greatly exceeds that of
-          calculating, reducing the benefits of additional miniaturization.
-          Signaling distance is now being shortened by stacking circuits.
+          Neurons are commonly modeled as Poisson spike-machines, but when
+          designing scalable systems, it's useful to know that such neurons must
+          spike 100x faster to improve a decoder's signal-to-noise ratio (SNR)
+          by just 10x. A fundamental property of Poisson statistics, this
+          system's scaling clarifies a tradeoff: to linearly increase the
+          decoder's SNR, we must quadratically increase the neuron's spike rate.
+          This series of projects expose the fundamental scaling laws that
+          govern how neural systems operate and the tradeoffs that us engineers
+          must balance.
         align: left
         posts:
-          - blog/neuromorphics_analog_digital.md
+          - blog/neurmorphics_analog_digital.md
           - blog/vision_efficiency.md
-          - blog/computation_nef.md
         paper_ids:
-          - C52
           - J43
-          - C45
           - C49
-      - title: Emulating Neural Circuits in Silicon
-        content: >
-          Retinomorphic cameras preprocess their photodetectors’ signals to
-          produce spatiotemporally sparse “spikes”. Event-based—as opposed to
-          frame-based—readout translates this lower data-rate into a higher
-          (equivalent) frame-rate and a shorter latency. In the row-column
-          architecture event-based vision sensors currently use.
+          - C50
+          - C43
+      - title: Programming Neuromorphic Systems
+        content: >-
+          Engineering challenges like building networks of smart sensors or building
+          brain-computer interfaces can become more tractable through the minimal
+          power demands of our neuromorphic systems. This series of projects
+          develop algorithms that leverage the intrinsic neural dynamics for
+          broader applications like speech recognition on the edge, autonomous
+          robotics, and neural prosthetics. Often, this includes an eye towards
+          ease-of-use and good software design, with clean abstractions and a
+          high-level user interface.
         align: left
         posts:
-          - blog/memory_storage.md
-          - blog/growing_circuits.md
-          - blog/neurogrid_board.md
+          - blog/our_technology.md
+          - blog/computation_nef.md
+          - blog/neuroprosthesis_bmi.md
         paper_ids:
           - J44
-          - J41
+          - J36
           - C42
-          - C40
+          - C39
 seo:
   title: Research
   description: This is the research page

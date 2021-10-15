@@ -19,7 +19,7 @@ export default class SeeMoreResearch extends React.Component {
 
     render() {
         let pubs_jsx = <div>
-            <h6 className="section__subtitle">Recent Publications</h6>
+            <h6 className="section__subtitle">Selected Publications</h6>
             <ul>
                 {_.map(_.get(this.props, 'pubs', []), (entry, entry_idx) => {
                     return (
@@ -33,7 +33,7 @@ export default class SeeMoreResearch extends React.Component {
             </ul>
         </div>;
         let posts_jsx = <div className="section__miniposts">
-            <h6 className="section__subtitle">Recent Posts</h6>
+            <h6 className="section__subtitle">Selected Posts</h6>
             <ul>
             {_.map(_.get(this.props, 'posts', []), (post, post_idx) => {
                 let title = post.frontmatter.title
