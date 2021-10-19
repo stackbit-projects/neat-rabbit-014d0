@@ -19,9 +19,9 @@ sections:
           - blog/audition_spike_precision.md
         paper_ids:
           - C53
-          - J34
           - C34
           - J23
+          - C25
       - title: Designing Scalable Systems
         content: >-
           We translate our insights from the brain's spike encoding and dendritic decoding mechanisms to design neuromorphic hardware that realizes the same signaling codes and computational primitives. Such codes and primitives lead to more _scalable_ neuromorphic systems. As the problem size grows, the energy demands grow more favorably. For example, when there are only a few neurons chattering, a neuron can get its message across by increasing its volume (i.e, spiking at a higher rate), but when there are many neurons, it's much better for them to take turns (i.e, coordinate their spiking). Thus the latter code scales more favorably.

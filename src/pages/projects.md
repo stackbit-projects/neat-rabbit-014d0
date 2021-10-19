@@ -4,7 +4,7 @@ sections:
   - type: features_section
     title: Current Projects
     features:
-      - title: Primitives/Codes - Spike Sequence Coding
+      - title: Sparse Spatiotemporal Codes
         content: >-
           Artificial intelligence benefited from shrinking transistors and
           connecting them densely in two dimensions to reduce the energy cost of
@@ -26,7 +26,7 @@ sections:
         align: left
         image_position: right
         image: images/silicon_brain-fa87a4f9.png
-      - title: Scalable Systems - Compute in Memory
+      - title: Parallel Computing in 3D
         content: >-
           A deep net _infers_ a response to a stimulus by multiplying a vector
           that comprises activations of all units in a layer by a matrix that
@@ -49,23 +49,23 @@ sections:
         align: left
         image_position: left
         image: images/compute_in_memory.png
-      - title: Scalable Systems - Event-Based Vision Sensors
+      - title: Retinomorphic Vision Sensors
         content: >
           Retinomorphic cameras preprocess their photodetectors’ signals to
           produce spatiotemporally sparse “spikes”. Event-based—as opposed to
           frame-based—readout translates this lower data-rate into a higher
           (equivalent) frame-rate and a shorter latency. In the row-column
-          architecture event-based vision sensors currently use, however,
+          architecture that event-based vision sensors currently use, however,
           latency and jitter (its standard deviation) increase nearly a
           thousandfold when spike rate exceeds row-readout rate (approx. 6M
           eps). This shortcoming may be rectified by taking advantage of
           two-chip stacking in state-of-the-are CMOS image sensor fabrication
           processes: Photodetectors reside on one chip and a metal bump connects
-          delivers each photosignal to another chip. That allows us to move the
-          event-based readout’s asynchronous logic circuitry from the periphery
+          each photosignal to another chip. That allows
+          event-based readout’s asynchronous logic circuitry to be moved from the periphery
           into the array without sacrificing the fill-factor. This
           network-on-a-chip, laid out in a 2D fractal pattern (H-tree), reduces
-          decreases latency and jitter by three to four orders-of-magnitude—they
+          latency and jitter by three to four orders-of-magnitude—they
           become significant only when spike rate approaches output bandwidth
           (approx. 1G eps).
         align: left
