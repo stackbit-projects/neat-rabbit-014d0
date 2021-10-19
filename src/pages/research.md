@@ -3,15 +3,15 @@ title: Research
 sections:
   - type: research_section
     title: Research Goals
-    pubFile: src/data/pubs2.yaml
+    pubFile: src/data/pubs3.yaml
     features:
-      - title: Discovering Primitives and Codes in Neuroscience
+      - title: Discovering Codes and Primitives in Neuroscience
         content: >-
-          A constant chattering of 80 billion neurons through 100 trillion synapses
-          could easily overheat our dense brains. Instead, each neuron must
-          spike sparingly, using each spike to carry as many bits as possible.
-          This series of projects explore how efficiently spike activity carries
-          information, and how robustly neuronal structures decode that representation.
+            A constant chattering of 80 billion neurons through 100 trillion synapses
+            could easily overheat our dense brains. To avoid that, each neuron
+            spikes sparingly, and each spike carries as many bits of information as possible.
+            This series of projects explore how spike activity encodes
+            information, and how dendritic mechanisms decode this information.
         align: left
         posts:
           - blog/attention_bursts.md
@@ -19,20 +19,13 @@ sections:
           - blog/audition_spike_precision.md
         paper_ids:
           - C53
-          - J39
           - J34
           - C34
+          - J23
       - title: Designing Scalable Systems
         content: >-
-          Neurons are commonly modeled as Poisson spike-machines, but when
-          designing scalable systems, it's useful to know that such neurons must
-          spike 100x faster to improve a decoder's signal-to-noise ratio (SNR)
-          by just 10x. A fundamental property of Poisson statistics, this
-          system's scaling clarifies a tradeoff: to linearly increase the
-          decoder's SNR, we must quadratically increase the neuron's spike rate.
-          This series of projects expose the fundamental scaling laws that
-          govern how neural systems operate and the tradeoffs that us engineers
-          must balance.
+          We translate our insights from the brain's spike encoding and dendritic decoding mechanisms to design neuromorphic hardware that realizes the same signaling codes and computational primitives. Such codes and primitives lead to more _scalable_ neuromorphic systems. As the problem size grows, the energy demands grow more favorably. For example, when there are only a few neurons chattering, a neuron can get its message across by increasing its volume (i.e, spiking at a higher rate), but when there are many neurons, it's much better for them to take turns (i.e, coordinate their spiking). Thus the latter code scales more favorably.
+
         align: left
         posts:
           - blog/neurmorphics_analog_digital.md
@@ -40,18 +33,12 @@ sections:
         paper_ids:
           - J43
           - C49
-          - C50
           - C43
+          - J24
+          - J41
       - title: Programming Neuromorphic Systems
         content: >-
-          Engineering challenges like building networks of smart sensors or building
-          brain-computer interfaces can become more tractable through the minimal
-          power demands of our neuromorphic systems. This series of projects
-          develop algorithms that leverage the intrinsic neural dynamics for
-          broader applications like speech recognition on the edge, autonomous
-          robotics, and neural prosthetics. Often, this includes an eye towards
-          ease-of-use and good software design, with clean abstractions and a
-          high-level user interface.
+          To exploit these codes and primitives, which define our neuromorphic hardware's instruction set and data operations, we must devise new algorithms. To this end, we develop a full software stack, with clean abstractions and a high-level user interface. We aim to solve broad engineering challenges such as migrating tasks from the datacenter to the smartphone. This would improve privacy, enhance user experience, and reduce carbon emissions.
         align: left
         posts:
           - blog/our_technology.md

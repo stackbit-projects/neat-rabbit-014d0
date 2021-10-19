@@ -13,14 +13,14 @@
     K Boahen,<strong> Braindrop: A Mixed-Signal Neuromorphic Architecture With a Dynamical
     Systems-Based Programming Model</strong>,<em> Proceedings of the IEEE</em>, vol
     107, no 1, pp 144-64, 2019.</div>'}
-- {href: /documents/ANeckar2018.pdf, id: C51, raw: '<div bgcolor="#F8EEE2">A Neckar,
+- {href: /documents/ANeckar2018.pdf, id: C51, raw: '<div>A Neckar,
     T Stewart, B Benjamin and K Boahen, <strong>Optimizing an Analog Neuron Circuit
     Design for Nonlinear Function Approximation</strong>, <em>IEEE International Symposium
     on Circuits and System (ISCAS)</em>, pp 1-4, Florence ITALY, May 2018.</div>'}
 - {href: /documents/serial-h-tree.pdf, id: C50, raw: '<div>S Fok and K Boahen, <strong>A
     Serial H-Tree Router for Two-Dimensional Arrays</strong>, <em>24th IEEE Symposium
     on Asynchronous Circuits and Systems, </em>IEEE Press, 2018.</div>'}
-- {href: /documents/Ashok2017.pdf, id: C49, raw: '<div bgcolor="#F8EEE2">A Cutkosky
+- {href: /documents/Ashok2017.pdf, id: C49, raw: '<div>A Cutkosky
     and K Boahen, <strong>Stochastic and Adversarial Online Learning Without Hyperparameters</strong>,
     <em>Advances in Neural Information Processing Systems 30,</em> Curran Associates,
     Inc., pp 5066-5074, 2017.</div>'}
@@ -59,7 +59,7 @@
     R Alvarez-Icaza,            J V Arthur, P A Merolla, and K Boahen, <strong>Neurogrid:
     A Mixed-Analog-Digital Multichip System for Large-Scale Neural Simulations</strong>,
     <em><em>Proceedings of the IEEE</em>, </em> vol 102, no 5, pp 699-716, 2014.</div>'}
-- {href: /documents/MerollaEtAlRouterFinal.pdf, id: J40, raw: '<div bgcolor="#EADED2">
+- {href: /documents/MerollaEtAlRouterFinal.pdf, id: J40, raw: '<div>
     P Merolla, J V Arthur, R Alvarez-Icaza, J-M Bussat,  and K Boahen,<strong> A Multicast
     Tree Router for Multichip Neuromorphic Systems</strong>,<em> IEEE Transactions
     on Circuits and Systems</em>, vol 61, no 3, pp 820-833, March 2014. </div>'}
@@ -105,7 +105,7 @@
     \ K Boahen,<strong> Deep cerebellar neurons mirror the spinal cord\u2019s gain\
     \ to implement an inverse controller</strong>, <em>Biological Cybernetics, </em>vol\
     \ 105, issue 1, pp 29-20, August 2011</div>"}
-- {href: /documents/SridharTectumSpaceCoding.pdf, id: J34, raw: '<div bgcolor="#EADED2">D
+- {href: /documents/SridharTectumSpaceCoding.pdf, id: J34, raw: '<div>D
     Sridharan, K Boahen and E Knudsen, <strong>Space Coding by Gamma Oscillations
     in the Barn Owl Optic Tectum</strong>, <em> <em>Journal of Neurophysiology</em></em>,
     vol 105, pp 2005-2017, May 2011</div>'}
@@ -217,21 +217,21 @@
     Neuromorphic Systems with Silicon Growth Cones </strong>. Doctoral Dissertation,
     Department of Neuroscience, University of Pennsylvania, Philadelphia, PA, December
     2005.</div>'}
-- {href: /documents/05_journ_IEEEtcs_hyprcol.pdf, id: J24, raw: '<div>            T
+- {href: /documents/05_journ_IEEEtcs_hyprcol.pdf, id: J24, raw: '<div>T
     Y W Choi, P Merolla, J Arthur, K Boahen and B E Shi, <b>Neuromorphic Implementation
     of Orientation Hypercolumns</b>, <i>IEEE Transactions on Circuits and Systems
-    I</i>, vol 52, no 6, pp 1049-1060, June 2005.        </div>'}
-- {href: /documents/05_journ_SciAm_NeurmorphChips.pdf, id: J23, raw: '<div>            K
+    I</i>, vol 52, no 6, pp 1049-1060, June 2005.</div>'}
+- {href: /documents/05_journ_SciAm_NeurmorphChips.pdf, id: J23, raw: '<div>K
     Boahen, <b>Neuromorphic Microchips</b>, <i>Scientific American</i>, vol 292, no
-    5, pp 56-63, May 2005.        </div>'}
-- {href: /documents/05_journ_JN_ContrAdapt.pdf, id: J22, raw: '<div>            K
+    5, pp 56-63, May 2005.</div>'}
+- {href: /documents/05_journ_JN_ContrAdapt.pdf, id: J22, raw: '<div>K
     A Zaghloul, K Boahen, and J B Demb, <b>Contrast Adaptation in Subthreshold and
     Spike Responses of Mammalian Y-Type Retinal Ganglion Cells</b>, <i>Journal of
-    Neuroscience</i>, vol. 25, no 4, pp 860-868, January 2005.        </div>'}
-- {href: /documents/05_journ_IEEEtcs_AdaptFilter.pdf, id: J21, raw: '<div>            K
+    Neuroscience</i>, vol. 25, no 4, pp 860-868, January 2005.</div>'}
+- {href: /documents/05_journ_IEEEtcs_AdaptFilter.pdf, id: J21, raw: '<div>K
     A Zaghloul and K Boahen, <b>An On-Off Log-Domain Circuit that Recreates Adaptive
     Filtering in the Retina</b>, <i>IEEE Transactions on Circuits and Systems I</i>,
-    vol 52, no 1, pp 99-107, January 2005.        </div>'}
+    vol 52, no 1, pp 99-107, January 2005.</div>'}
 - {href: /documents/05_conf_ICANN_SiGrowthConeOptimiz.pdf, id: C24, raw: "<div>  \
     \          B Taba and K Boahen, <b>Balancing Guidance Range and Strength Optimizes\
     \ Self-Organization by Silicon Growth Cones</b>, <i>Artificial Neural Networks:\
@@ -242,18 +242,18 @@
     M Lam, B E Shi and K Boahen, <strong>Self-organized Cortical Map Formation by
     Guiding Connections</strong>, <em>IEEE International Symposium on Circuits and
     Systems</em>, pp 5230-33, 2005. </div>'}
-- {href: /documents/04_conf_IJCNN_Learning.pdf, id: C22, raw: '<div>            J
+- {href: /documents/04_conf_IJCNN_Learning.pdf, id: C22, raw: '<div>J
     V Arthur and K Boahen, <b>Recurrently Connected Silicon Neurons with Active Dendrites
     for One-Shot Learning</b>, <i>International Joint Conference on Neural Networks</i>,
-    IJCNN''04, IEEE Press, pp 1699-704, 2004.        </div>'}
-- {href: /documents/03_conf_NIPS_Recurrent.pdf, id: C21, raw: '<div>            P
+    IJCNN''04, IEEE Press, pp 1699-704, 2004.</div>'}
+- {href: /documents/03_conf_NIPS_Recurrent.pdf, id: C21, raw: '<div>P
     Merolla and K Boahen, <b>A Recurrent Model of Orientation Maps with Simple and
     Complex Cells</b>, <i>Advances in Neural Information Processing Systems 16</i>,
-    S Thrun and L Saul, Eds, MIT Press,  pp 995-1002, 2004.        </div>'}
-- {href: /documents/04_conf_IEEEiscs_MultiChip.pdf, id: C20, raw: '<div>            T
+    S Thrun and L Saul, Eds, MIT Press,  pp 995-1002, 2004.</div>'}
+- {href: /documents/04_conf_IEEEiscs_MultiChip.pdf, id: C20, raw: '<div>T
     Y W Choi, B E Shi, and K Boahen, <b>A Multi-Chip Model of Cortical Orientation
     Hypercolumns</b>, <i>IEEE International Symposium on Circuits and Systems</i>,
-    vol 3, pp 13-16, 2004.        </div>'}
+    vol 3, pp 13-16, 2004.</div>'}
 - {href: /documents/04_journ_IEEEtcs_AERChanIII.pdf, id: J20, raw: '<div>            K
     Boahen, <b>A Burst-Mode Word-Serial Address-Event            Link-III: Analysis
     and Testing</b>, <i>IEEE Transactions on Circuits and Systems I</i>, vol 51, no

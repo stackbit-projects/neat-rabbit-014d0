@@ -22,12 +22,14 @@ export default class SeeMoreResearch extends React.Component {
             <h6 className="section__subtitle">Selected Publications</h6>
             <ul>
                 {_.map(_.get(this.props, 'pubs', []), (entry, entry_idx) => {
+                    let fpath = withPrefix(entry.href)
                     return (
-                        <li key={entry_idx}>
+                        <li key={entry_idx}><div>
                           {entry.raw && (
-                          markdownify(entry.raw.substring(0, entry.raw.length-6) + ' <a href={withPrefix(entry.href)} target="_blank" rel="noreferrer">PDF</a></div>')
+                          markdownify(entry.raw.substring(5, entry.raw.length-6) + ' <a href=' + fpath + ' target="_blank" rel="noreferrer">PDF</a></div>')
                           )}
-                        </li>
+
+                        </div></li>
                     )
                 })}
             </ul>

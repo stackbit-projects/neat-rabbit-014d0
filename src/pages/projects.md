@@ -49,7 +49,7 @@ sections:
         align: left
         image_position: left
         image: images/compute_in_memory.png
-      - title: Emulating Neural Circuits - Event-Based Vision Sensors
+      - title: Scalable Systems - Event-Based Vision Sensors
         content: >
           Retinomorphic cameras preprocess their photodetectors’ signals to
           produce spatiotemporally sparse “spikes”. Event-based—as opposed to

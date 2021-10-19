@@ -24,10 +24,11 @@ sections:
     title: About Us
     content: >-
         <br>
-        We are a group of engineers, theorists, and scientists seeking to reverse-engineer principles of neural design and apply them to solve societal problems.
-        <br>
-        <br>
-        Our philosophy is always _forward-looking_: as we aim for problems 100x or 1000x more complex than those of today, the solutions we develop must remain feasible and energy-efficient into the future. The current track of deep learning has impressively produced a doubling of performance on some benchmark tasks in the mere span of five years—but at the cost of emitting 10,000x more carbon emissions during training. In contrast, the brain is a paragon for energy-efficiency: a similar 10,000-fold increase in the energy used during training (i.e., neural development) amounts to maturing a human brain rather than a rat brain. To do so, the brain utilizes neurons as a primitive computational unit and their sparse firing as an expressive and efficient code. Our work exploits those primitives and codes to design scalable systems that can be programmed with ease. We envision a world where neuromorphic systems enable everything from personal prosthetics to smart cities and are deployed throughout society’s technological infrastructure.
+        We are a group of engineers, theorists, and scientists seeking to reverse-engineer principles of neural design and apply them to solve societal problems. Our philosophy is _forward-looking_. We anticipate problems hundreds to thousands of times more complex than those of today. Thus we seek technological solutions that handle this complexity efficiently and scalably.
+        <br><br>
+        Today's deep learning solutions scale poorly. Emitting 10,000-fold more carbon to train a deep net only doubles its performance on benchmark tasks. The next doubling in performance will emit as much CO<sub>2</sub> as New York City does in a month.
+        <br><br>
+        In contrast, the brain learns extremely efficiently. A child masters language by the age of 6, having heard at most 65 million words. That’s 15,000-fold less than the trillion words used to train GPT-3. Equivalently, a child that learns language at the same rate as GPT-3 would be 12,000 years old before it could converse fluently. By reverse-engineering how the brain uses so little data to learn, we hope to invent solutions that enable a sustainable technological future.
 
 seo:
   title: Brains in Silicon Homepage

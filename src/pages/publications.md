@@ -3,7 +3,7 @@ title: Publications
 sections:
   - type: publications_section
     title: Publications
-    pubFile: src/data/pubs2.yaml
+    pubFile: src/data/pubs3.yaml
 
 seo:
   title: Publications
