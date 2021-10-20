@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {Link, getData, withPrefix} from '../utils';
+import {Link, getData} from '../utils';
 
 export default class AlumniSection extends React.Component {
     render() {
@@ -24,7 +24,7 @@ export default class AlumniSection extends React.Component {
                       let styling = {'text-decoration': "none"};
                       return (
                       <div key={person_idx} className="cell">
-                        <Link to={withPrefix(_.get(person_data, 'link', null))} style={styling}>
+                        <Link to={_.get(person_data, 'link', null)} style={styling}>
                         <div className="card team-member">
 
                           <div className="card__body">

@@ -26,7 +26,7 @@ export default class Body extends React.Component {
                           _.get(meta, 'relativeUrl', null) ? (
                             _.get(this.props, 'pageContext.site.siteMetadata.domain', null) && ((() => {
                                 let domain = _.trim(_.get(this.props, 'pageContext.site.siteMetadata.domain', null), '/');
-                                let rel_url = withPrefix(_.get(meta, 'value', null));
+                                let rel_url = _.get(meta, 'value', null);
                                 let full_url = domain + rel_url;
                                 return (
                                   <meta key={meta_idx} {...(attribute(key_name, _.get(meta, 'name', null)))} content={full_url}/>
@@ -36,10 +36,10 @@ export default class Body extends React.Component {
                             <meta key={meta_idx + '.1'} {...(attribute(key_name, _.get(meta, 'name', null)))} content={_.get(meta, 'value', null)}/>
                         )
                     })}
-                    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png"/>
-                    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png"/>
-                    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png"/>
-                    <link rel="manifest" href="/images/favicon/site.webmanifest"></link>
+                    <link rel="apple-touch-icon" sizes="180x180" href={withPrefix("images/favicon/apple-touch-icon.png")}/>
+                    <link rel="icon" type="image/png" sizes="32x32" href={withPrefix("images/favicon/favicon-32x32.png")}/>
+                    <link rel="icon" type="image/png" sizes="16x16" href={withPrefix("images/favicon/favicon-16x16.png")}/>
+                    <link rel="manifest" href={withPrefix("images/favicon/site.webmanifest")}></link>
                 </Helmet>
                 <div id="site-wrap" className="site">
                   <Header {...this.props} />

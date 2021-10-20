@@ -1,10 +1,8 @@
 ---
 title: General
 sections:
-  - type: hero_section
-    title: All Posts In General
-    align: center
   - type: blog_feed_section
+    title: All Posts In General
     show_recent: false
     category: src/data/categories/general.yaml
 seo:

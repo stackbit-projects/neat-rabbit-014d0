@@ -13,7 +13,7 @@ export default class BlogPostFeedItem extends React.Component {
             <article className="cell">
               <div className="card">
                 {_.get(post, 'frontmatter.image', null) && (
-                <Link className="card__media card__media--top" to={withPrefix(_.get(post, 'url', null))}>
+                <Link className="card__media card__media--top" to={_.get(post, 'url', null)}>
                   <img src={withPrefix(_.get(post, 'frontmatter.image', null))} alt={_.get(post, 'frontmatter.image_alt', null)} />
                 </Link>
                 )}
@@ -23,9 +23,9 @@ export default class BlogPostFeedItem extends React.Component {
                       <BlogPostCategories {...this.props} categories={_.get(post, 'frontmatter.categories', null)} container_class={'card__meta'} />
                     )}
                     {_.get(blog_feed_section, 'title', null) ? (
-                      <h3 className="h4 card__title"><Link to={withPrefix(_.get(post, 'url', null))}>{_.get(post, 'frontmatter.title', null)}</Link></h3>
-                    ) : 
-                      <h2 className="h4 card__title"><Link to={withPrefix(_.get(post, 'url', null))}>{_.get(post, 'frontmatter.title', null)}</Link></h2>
+                      <h3 className="h4 card__title"><Link to={_.get(post, 'url', null)}>{_.get(post, 'frontmatter.title', null)}</Link></h3>
+                    ) :
+                      <h2 className="h4 card__title"><Link to={_.get(post, 'url', null)}>{_.get(post, 'frontmatter.title', null)}</Link></h2>
                     }
                   </header>
                   {_.get(post, 'frontmatter.excerpt', null) && (
@@ -39,8 +39,8 @@ export default class BlogPostFeedItem extends React.Component {
                         let author = getData(this.props.pageContext.site.data, _.get(post, 'frontmatter.author', null));
                         return (
                           author.link ? (
-                            <span> by <Link to={withPrefix(author.link)}>{author.first_name} {author.last_name}</Link></span>
-                          ) : 
+                            <span> by <Link to={author.link}>{author.first_name} {author.last_name}</Link></span>
+                          ) :
                             <span> by {author.first_name} {author.last_name}</span>
                         );
                     })())}

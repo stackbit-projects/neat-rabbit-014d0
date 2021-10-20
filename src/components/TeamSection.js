@@ -25,7 +25,7 @@ export default class TeamSection extends React.Component {
                       let styling = {'text-decoration': "none"};
                       return (
                       <div key={person_idx} className="cell">
-                        <Link to={withPrefix(_.get(person_data, 'link', null))} style={styling}>
+                        <Link to={_.get(person_data, 'link', null)} style={styling}>
                         <div className="card team-member">
                         {photo && (
                         <figure className="card__media card__media--bottom">

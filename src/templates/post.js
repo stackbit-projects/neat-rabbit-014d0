@@ -35,7 +35,7 @@ export default class Post extends React.Component {
                         let author = getData(this.props.pageContext.site.data, _.get(this.props, 'pageContext.frontmatter.author', null));
                         return (
                           author.link ? (
-                            <span> by <Link to={withPrefix(author.link)}>{author.first_name} {author.last_name}</Link></span>
+                            <span> by <Link to={author.link}>{author.first_name} {author.last_name}</Link></span>
                           ) :
                             <span> by {author.first_name} {author.last_name}</span>
                         );

@@ -18,7 +18,7 @@ export default class PersonSection extends React.Component {
                 name = name + ', ' + person.suffix
             }
         }
-        let members_action = {'url': withPrefix('/people'), 'style': "secondary", 'label': 'View all members'}
+        let members_action = {'url': '/people', 'style': "secondary", 'label': 'View all members'}
         return (
             <section className="section section--person">
               <div className="container container--lg">

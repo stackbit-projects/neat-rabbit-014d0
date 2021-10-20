@@ -1,7 +1,7 @@
 const siteMetadata = require('./site-metadata.json')
 
 module.exports = {
-    pathPrefix: '/',
+    pathPrefix: '/group/brainsinsilicon',
     siteMetadata: siteMetadata,
     plugins: [
         `gatsby-plugin-react-helmet`,

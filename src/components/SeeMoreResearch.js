@@ -42,7 +42,7 @@ export default class SeeMoreResearch extends React.Component {
                 let excerpt = post.frontmatter.excerpt
                 return (
                     <li key={post_idx}>
-                        <Link to={withPrefix(_.get(post, 'url', null))} >{title}</Link>
+                        <Link to={_.get(post, 'url', null)} >{title}</Link>
                         <em> - {excerpt}</em>
                     </li>
                 )
