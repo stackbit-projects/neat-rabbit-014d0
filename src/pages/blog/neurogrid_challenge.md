@@ -1,6 +1,6 @@
 ---
 title: Neurogrid - The Challenge
-date: '2015-05-25'
+date: '2016-05-24'
 author: src/data/alumni/nick-steinmetz.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/flashWMAtt.gif
 image_alt: Neuromorphic Chip
 figure: images/flashWMAtt.gif
 figure_caption: >-
-  <b>Modeling Selective Attention in Cortex.</b> An executive area (FEF) and a sensory area (V4) are each modeled with populations of excitatory (Exc) and inhibitory (Inh) neurons. External stimuli drive two groups of V4 Exc neurons (within blue and orange boxes), whose average activity is also displayed (corresponding traces below). A brief external cue drives a group of FEF Exc neurons, whose activity, sustained via recurrent excitation, increases the gain of Exc neurons at the corresponding spatial location in V4 (blue box) through modulatory feedback. As a result, the stimulus applied there evokes a stronger response the second time, replicating the effects of selective attention in visual cortex [Nick Steinmetz 2011].
+  <b>Modeling Selective Attention in Cortex.</b> An executive area (FEF) and a sensory area (V4) are each modeled with populations of excitatory (Exc) and inhibitory (Inh) neurons. External stimuli drive two groups of V4 Exc neurons (within blue and orange boxes), whose average activity is also displayed (corresponding traces below). A brief external cue drives a group of FEF Exc neurons, whose activity, sustained via recurrent excitation, increases the gain of Exc neurons at the corresponding spatial location in V4 (blue box) through modulatory feedback. As a result, the stimulus applied there evokes a stronger response the second time, replicating the effects of selective attention in visual cortex [<a href="http://web.stanford.edu/group/brainsinsilicon/documents/16_journ_Science.pdf" target="_blank">Nick Steinmetz 2016</a>].
 excerpt: >-
   Neurogrid is part of a profound shift in computing, away from the sequential, step-by-step Von Neumann architecture towards a parallel, interconnected architecture more like the brain.
 seo:

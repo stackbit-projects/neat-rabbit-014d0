@@ -1,6 +1,6 @@
 ---
 title: Neuroprosthesis - Fully implanted brain-machine interfaces
-date: '2015-09-02'
+date: '2014-09-02'
 author: src/data/alumni/samir-menon.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/brainsinsilicon_neuromorphics_clip_no_border.gif
 image_alt:
 figure: images/brainsinsilicon_neuromorphics_clip_no_border.gif
 figure_caption: >-
-  <b>Neuromorphic Robot-Arm Controller.</b> Neurogrid's spiking neurons compute motor-torques applied to joints of a robot-arm, thereby moving its end-effector to a location specified by the user. Spike rates and rasters are displayed (black-and-white & cyan plots on monitor's left side) as well as the user-specified location (green ball on monitor's right side). The computer relays the difference between the current and desired end-effector locations to Neurogrid as well as the current joint angles [Menon et al., 2014].
+  <b>Neuromorphic Robot-Arm Controller.</b> Neurogrid's spiking neurons compute motor-torques applied to joints of a robot-arm, thereby moving its end-effector to a location specified by the user. Spike rates and rasters are displayed (black-and-white & cyan plots on monitor's left side) as well as the user-specified location (green ball on monitor's right side). The computer relays the difference between the current and desired end-effector locations to Neurogrid as well as the current joint angles [<a href="http://web.stanford.edu/group/brainsinsilicon/documents/Menon-BioRob.pdf" target="_blank">Menon et al., 2014</a>].
 excerpt: >-
   BrainGate's partially implanted brain machine interface (BMI) uses half of the 100 mW it consumes to wirelessly transmit neural signals recorded on 100 microelectrodes.
 seo:

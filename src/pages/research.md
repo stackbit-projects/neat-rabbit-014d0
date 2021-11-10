@@ -5,7 +5,7 @@ sections:
     title: Research Goals
     pubFile: src/data/pubs3.yaml
     features:
-      - title: Discovering Codes and Primitives in Neuroscience
+      - title: Discovering the Brain's Codes and Primitives
         content: >-
             A constant chattering of 80 billion neurons through 100 trillion synapses
             could easily overheat our dense brains. To avoid that, each neuron
@@ -22,7 +22,7 @@ sections:
           - C34
           - J23
           - C25
-      - title: Designing Scalable Systems
+      - title: Scaling Neuromorphic Systems
         content: >-
           We translate our insights from the brain's spike encoding and dendritic decoding mechanisms to design neuromorphic hardware that realizes the same signaling codes and computational primitives. Such codes and primitives lead to more _scalable_ neuromorphic systems. As the problem size grows, the energy demands grow more favorably. For example, when there are only a few neurons chattering, a neuron can get its message across by increasing its volume (i.e, spiking at a higher rate), but when there are many neurons, it's much better for them to take turns (i.e, coordinate their spiking). Thus the latter code scales more favorably.
 

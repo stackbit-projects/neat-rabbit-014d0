@@ -59,7 +59,7 @@ sections:
           latency and jitter (its standard deviation) increase nearly a
           thousandfold when spike rate exceeds row-readout rate (approx. 6M
           eps). This shortcoming may be rectified by taking advantage of
-          two-chip stacking in state-of-the-are CMOS image sensor fabrication
+          two-chip stacking in state-of-the-art CMOS image sensor fabrication
           processes: Photodetectors reside on one chip and a metal bump connects
           each photosignal to another chip. That allows
           event-based readout’s asynchronous logic circuitry to be moved from the periphery

@@ -1,7 +1,7 @@
 ---
 title: Neurogrid - The Board
-date: '2015-05-24'
-author: src/data/alumni/rodrigo-alvarez-icaza.yaml
+date: '2016-05-25'
+author: src/data/alumni/ben-varkey-benjamin.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
@@ -9,7 +9,7 @@ image: images/BoardNoCovers288x194.jpg
 image_alt: Neuromorphic Chip
 figure: images/BoardNoCovers288x194.jpg
 figure_caption: >-
-  <b>Neurogrid.</b> With sixteen 12x14 sq-mm chips (Neurocores) assembled on a 6.5x7.5 sq-in circuit board (shown above), Neurogrid can model a slab of cortex with up to 16x256x256 neurons—over a million! The chips are interconnected in a binary tree by 80M spike/sec links. An on-chip RAM (in each Neurocore) and an off-chip RAM (on a daughterboard, not shown) softwire vertical and horizontcal cortical connections, respectively [Rodrigo Alvarez 2009].
+  <b>Neurogrid.</b> With sixteen 12x14 sq-mm chips (Neurocores) assembled on a 6.5x7.5 sq-in circuit board (shown above), Neurogrid can model a slab of cortex with up to 16x256x256 neurons—over a million! The chips are interconnected in a binary tree by 80M spike/sec links. An on-chip RAM (in each Neurocore) and an off-chip RAM (on a daughterboard, not shown) softwire vertical and horizontcal cortical connections, respectively [<a href="http://web.stanford.edu/group/brainsinsilicon/documents/BenjaminEtAlNeurogrid2014.pdf" target="_blank">B V Benjamin 2014</a>].
 excerpt: >-
   Recent breakthroughs in neuromorphic engineering make it possible to combine analog's parallel operation with digital's programmability, reaping the best of both worlds.
 seo:

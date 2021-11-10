@@ -1,7 +1,7 @@
 ---
 title: Our Approach - A Third Alternative for Computation
-date: '2015-08-25'
-author: src/data/alumni/john-v-arthur.yaml
+date: '2007-08-25'
+author: src/data/alumni/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
@@ -9,7 +9,7 @@ image: images/fastint1.gif
 image_alt: Post 4 placeholder image
 figure: images/fastint1.gif
 figure_caption: >-
-  <b>Running a simulation on a neuromorphic chip.</b> You do not need to know how a transistor works to use these chips. You simply download the physiological properties of your cells and the anatomical connectivity of your network through a USB cable, which also sends back all 256 silicon neurons' spike rates (yellow dots) and spike trains (white ticks) in real-time; some neurons are silent (gaps). You select a neuron (white square and red ticks) to see its membrane potential (orange trace) and hear it spike ('pop' sound). You can change the neurons' connectivity and observe the resulting behavior: Here, they inhibit their neighbors and synchrony results—a 40Hz rhythm is evident in the population histogram (beneath spike trains; the other histogram shows individual spike rates). [John Arthur 2006]
+  <b>Running a simulation on a neuromorphic chip.</b> You do not need to know how a transistor works to use these chips. You simply download the physiological properties of your cells and the anatomical connectivity of your network through a USB cable, which also sends back all 256 silicon neurons' spike rates (yellow dots) and spike trains (white ticks) in real-time; some neurons are silent (gaps). You select a neuron (white square and red ticks) to see its membrane potential (orange trace) and hear it spike ('pop' sound). You can change the neurons' connectivity and observe the resulting behavior: Here, they inhibit their neighbors and synchrony results—a 40Hz rhythm is evident in the population histogram (beneath spike trains; the other histogram shows individual spike rates). [<a href="http://web.stanford.edu/group/brainsinsilicon/documents/07_Journ_IEEEtransNN_Synchrony.pdf" target="_blank">John Arthur 2007</a>]
 excerpt: >-
   Computers' inherent limitations as neural simulation platforms are addressed by neuromorphic chips: Their fundamental component is not a logic gate but a silicon neuron.
 seo:

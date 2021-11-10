@@ -1,7 +1,7 @@
 ---
 title: Attention - Synchrony in working memory
-date: '2014-02-11'
-author: src/data/alumni/john-v-arthur.yaml
+date: '2011-12-01'
+author: src/data/alumni/sridhar-devarajan.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
@@ -9,7 +9,7 @@ image: images/sync3.gif
 image_alt:
 figure: images/sync3.gif
 figure_caption: >-
-  <b>Robust spatial working memory through inhibitory gamma synchrony.</b> A 32x32 array (left) of excitatory (blue) and inhibitory (yellow) neurons, a scrolling raster display (top right) of their spikes, and a histogram (bottom right) of all the spikes is shown. In previous models with recurrent excitatory-inhibitory coupling [Renart et al, 2003], the stored spatial pattern (blue pixels) tends to drift. Upon synchronizing the inhibitory neurons' firing in the gamma range (60Hz), the stored pattern remains relatively more stable [Sridharan et al 2010].
+  <b>Robust spatial working memory through inhibitory gamma synchrony.</b> A 32x32 array (left) of excitatory (blue) and inhibitory (yellow) neurons, a scrolling raster display (top right) of their spikes, and a histogram (bottom right) of all the spikes is shown. In previous models with recurrent excitatory-inhibitory coupling [Renart et al, 2003], the stored spatial pattern (blue pixels) tends to drift. Upon synchronizing the inhibitory neurons' firing in the gamma range (60Hz), the stored pattern remains relatively more stable [<a href="http://web.stanford.edu/group/brainsinsilicon/documents/SridharTectumSpaceCoding.pdf" target="_blank">Sridharan et al 2011</a>].
 excerpt: >-
   How does information persist stably in an inherently noisy brain without deterioration, over timescales of seconds to minutes?
 seo:

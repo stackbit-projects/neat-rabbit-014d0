@@ -1,6 +1,6 @@
 ---
 title: Vision - Computing efficiently
-date: '2012-01-12'
+date: '2004-04-20'
 author: src/data/alumni/kareem-zaghloul.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/peoKareem_Ani1_000.gif
 image_alt:
 figure: images/peoKareem_Ani1_000.gif
 figure_caption: >-
-  <b>Silicon retina's response to a face.</b> Its four ganglion cell types (color-coded) spike where there is spatial contrast (red for dark; green for light) or when there is temporal change (blue for increase; yellow for decrease). The reconstructed video is shown above. [Kareem Zaghloul 2004]
+  <b>Silicon retina's response to a face.</b> Its four ganglion cell types (color-coded) spike where there is spatial contrast (red for dark; green for light) or when there is temporal change (blue for increase; yellow for decrease). The reconstructed video is shown above. [<a href="http://web.stanford.edu/group/brainsinsilicon/documents/04_journ_IEEEtbe_ONSigII.pdf" target="_blank">Kareem Zaghloul 2004</a>]
 excerpt: >-
   The retina’s ganglion cells, whose signals the optic nerve carries, only interpret a small portion of the visual scene for the brain.
 seo:

@@ -28,7 +28,7 @@ sections:
         <br><br>
         Today's deep learning solutions scale poorly. Emitting 10,000-fold more carbon to train a deep net only doubles its performance on benchmark tasks. The next doubling in performance will emit as much CO<sub>2</sub> as New York City does in a month.
         <br><br>
-        In contrast, the brain learns extremely efficiently. A child masters language by the age of 6, having heard at most 65 million words. That’s 15,000-fold less than the trillion words used to train GPT-3. Equivalently, a child that learns language at the same rate as GPT-3 would be 12,000 years old before it could converse fluently. By reverse-engineering how the brain uses so little data to learn, we hope to invent solutions that enable a sustainable technological future.
+        In contrast, the brain learns extremely efficiently. A child masters language by the age of 6, having heard at most 65 million words. That’s 15,000-fold less than the trillion words used to train GPT-3. Equivalently, a child that learns language at the same rate as GPT-3 would be 90,000 years old before it could converse fluently. By reverse-engineering how the brain uses so little data to learn, we hope to invent solutions that enable a sustainable technological future.
 
 seo:
   title: Brains in Silicon Homepage

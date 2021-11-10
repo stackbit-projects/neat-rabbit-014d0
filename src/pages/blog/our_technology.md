@@ -1,6 +1,6 @@
 ---
 title: Our Technology - Programmable Neural Silicon
-date: '2015-08-26'
+date: '2007-08-26'
 author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/1_001.jpg
 image_alt: Neuromorphic Chip
 figure: images/1_001.jpg
 figure_caption: >-
-  <b>Neuromorphic chip.</b> This tiny chip—packaged in black plastic and mounted on a printed circuit board—models 1,024 excitatory pyramidal cells and 256 inhibitory basket cells. Their cellular properties and synaptic organization are downloaded to the chip over a USB link, which also allows their activity to be visualized in real-time. [Emily Nathan 2007]
+  <b>Neuromorphic chip.</b> This tiny chip—packaged in black plastic and mounted on a printed circuit board—models 1,024 excitatory pyramidal cells and 256 inhibitory basket cells. Their cellular properties and synaptic organization are downloaded to the chip over a USB link, which also allows their activity to be visualized in real-time.
 excerpt: >-
   A computer that executes one instruction every time the brain activates a synapse would consume a hundred megawatts!
 seo:

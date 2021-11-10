@@ -1,6 +1,6 @@
 ---
 title: Attention - Spike or burst?
-date: '2014-02-10'
+date: '2003-11-30'
 author: src/data/alumni/kai-michael-hynna.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/introAni_ThalBurst.gif
 image_alt:
 figure: images/introAni_ThalBurst.gif
 figure_caption: >-
-  <b>Bursting in a silicon thalamocortical cell.</b> Retinal input (blue) triggers single spikes (red) or bursts (green). Bursts require priming by inhibition (from a reticular neuron) evoked by vigorous responses; otherwise the cell switches to single-spike mode. [Kai Hynna 2002]
+  <b>Bursting in a silicon thalamocortical cell.</b> Retinal input (blue) triggers single spikes (red) or bursts (green). Bursts require priming by inhibition (from a reticular neuron) evoked by vigorous responses; otherwise the cell switches to single-spike mode. [<a href="http://web.stanford.edu/group/brainsinsilicon/documents/03_conf_EMBS_Silicon.pdf" target="_blank">Kai Hynna</a>]
 excerpt: >-
   How can a neuron hear anything over the cacophony created by ten thousand inputs?
 seo:

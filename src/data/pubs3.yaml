@@ -13,6 +13,17 @@
     K Boahen,<strong> Braindrop: A Mixed-Signal Neuromorphic Architecture With a Dynamical
     Systems-Based Programming Model</strong>,<em> Proceedings of the IEEE</em>, vol
     107, no 1, pp 144-64, 2019.</div>'}
+- {href: /documents/samfok_phd_thesis.pdf, id: M16, raw: '<div>Fok S. <strong>Communicating and
+    Computing with Spikes in Neuromorphic Systems</strong>. Doctoral Dissertation, Department of
+    Electrical Engineering, Stanford University, Stanford, CA, 2018.</div>'}
+- {href: /documents/alexneckar_phd_thesis.pdf, id: M15, raw: '<div>Neckar A. <strong>Braindrop: A
+    Mixed-Signal Neuromorphic Architecture with a Dynamical Systems-Based Programming Model</strong>.
+    Doctoral Dissertation, Department of Electrical Engineering, Stanford University, Stanford, CA,
+    2018.</div>'}
+- {href: /documents/benbenjamin_phd_thesis.pdf, id: M14, raw: '<div>Benjamin B. <strong>Subthreshold
+    Analog Circuit Design for Large-Scale, Low-Power, Spiking Neuromorphic Systems</strong>. Doctoral
+    Dissertation, Department of Electrical Engineering, Stanford University, Stanford, CA,
+    2018.</div>'}
 - {href: /documents/ANeckar2018.pdf, id: C51, raw: '<div>A Neckar,
     T Stewart, B Benjamin and K Boahen, <strong>Optimizing an Analog Neuron Circuit
     Design for Nonlinear Function Approximation</strong>, <em>IEEE International Symposium

@@ -9,7 +9,7 @@ image: images/spaun.png
 image_alt:
 figure: images/spaun.png
 figure_caption: >-
-  <b>Rapid variable creation in Spaun.</b> Several input-output examples are presented to Spaun visually. It is then given an input and must produce the appropriate output, writing its answer. To get the right answer in this task, Spaun must infer a common pattern in the input-output pairings. Doing so requires induction, a central feature of human cognition. In the trial shown, it responds correctly, successfully inferring the common pattern [Eliasmith et al. 2012].
+  <b>Rapid variable creation in Spaun.</b> Several input-output examples are presented to Spaun visually. It is then given an input and must produce the appropriate output, writing its answer. To get the right answer in this task, Spaun must infer a common pattern in the input-output pairings. Doing so requires induction, a central feature of human cognition. In the trial shown, it responds correctly, successfully inferring the common pattern [<a href="https://doi.org/10.1126/science.1225266" target="_blank">Eliasmith et al. 2012</a>].
 excerpt: >-
   Spaun autonomously performs several different cognitive visuomotor tasks but runs 9,000 times slower than real-time on a 16-core PC.
 seo:

@@ -1,6 +1,6 @@
 ---
 title: Learning - Growing circuits
-date: '2015-05-27'
+date: '2003-09-21'
 author: src/data/alumni/brian-taba.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/peoBrianEvo_000.gif
 image_alt:
 figure: images/peoBrianEvo_000.gif
 figure_caption: >-
-  <b>Modeling epigenetic development.</b> Axon-terminals from randomly-activated patches of retinal cells (top-left) excite tectal cells (top-right) to release neurotropin, a chemical that diffuses to nearby locations. Migrating up the neurotropin gradient, axons from neighboring retinal cells converge on neighboring tectal cells. Coloring retinal cells (bottom-left) and tracing the colors reveals a map forming in the tectum (bottom-right). This simulation was performed by a neuromorphic chip: electrons emulate neurotropin and softwires emulate axon-migration. [Brian Taba 2002]
+  <b>Modeling epigenetic development.</b> Axon-terminals from randomly-activated patches of retinal cells (top-left) excite tectal cells (top-right) to release neurotropin, a chemical that diffuses to nearby locations. Migrating up the neurotropin gradient, axons from neighboring retinal cells converge on neighboring tectal cells. Coloring retinal cells (bottom-left) and tracing the colors reveals a map forming in the tectum (bottom-right). This simulation was performed by a neuromorphic chip: electrons emulate neurotropin and softwires emulate axon-migration. [<a href="https://web.stanford.edu/group/brainsinsilicon/documents/02_conf_NIPS_Topo.pdf" target="_blank">Brian Taba 2003</a>]
 excerpt: >-
   The genome's billion (10^9) bits cannot specify where each synapse in the brain goes—--a hundred million times more bits are required to list the quadrillion (10^15) connections among the brain's trillion (10^12) neurons
 seo:

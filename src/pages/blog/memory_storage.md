@@ -1,6 +1,6 @@
 ---
 title: Memory - Storing patterns
-date: '2014-02-12'
+date: '2006-09-21'
 author: src/data/alumni/john-v-arthur.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/memorylg.gif
 image_alt:
 figure: images/memorylg.gif
 figure_caption: >-
-  <b>Memory in a Model Hippocampus.</b> A hundred neurons (S) are active and spike repeatedly (raster plot). STDP potentiates synapses from neurons that spike early (red) to those that spike late (blue). Potentiating synapses onto late neurons causes them to spike earlier, synchronizing them with the other neurons. Even the most lethargic neuron (membrane potential trace) on this neuromorphic chip synchronizes. [John Arthur 2007]
+  <b>Memory in a Model Hippocampus.</b> A hundred neurons (S) are active and spike repeatedly (raster plot). STDP potentiates synapses from neurons that spike early (red) to those that spike late (blue). Potentiating synapses onto late neurons causes them to spike earlier, synchronizing them with the other neurons. Even the most lethargic neuron (membrane potential trace) on this neuromorphic chip synchronizes. [<a href="https://web.stanford.edu/group/brainsinsilicon/documents/05_conf_NIPS_SiLearning.pdf" target="_blank">John Arthur 2006</a>]
 excerpt: >-
   When we visit a new place, our brains remember it. The brain region responsible is the hippocampus, which stores sensory experiences.
 seo:

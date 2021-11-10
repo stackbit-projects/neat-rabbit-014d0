@@ -1,6 +1,6 @@
 ---
 title: Audition - Spiking precisely
-date: '2012-01-12'
+date: '2006-09-20'
 author: src/data/alumni/john-h-wittig-jr.yaml
 categories:
   - src/data/categories/general.yaml
@@ -9,7 +9,7 @@ image: images/JWtstellate_001.gif
 image_alt:
 figure: images/JWtstellate_001.gif
 figure_caption: >-
-  <b>Cochlear nucleus slice recording.</b> Hyperpolarizing and depolarizing voltage steps from a holding potential of -50 mV elicited mixed-cation (Ih) and potassium (Ik) currents, respectively. The biocytin-labeled cell was identified as a t-stellate (inset) [John Wittig 2003].
+  <b>Cochlear nucleus slice recording.</b> Hyperpolarizing and depolarizing voltage steps from a holding potential of -50 mV elicited mixed-cation (Ih) and potassium (Ik) currents, respectively. The biocytin-labeled cell was identified as a t-stellate (inset) [<a href="https://web.stanford.edu/group/brainsinsilicon/documents/ISCAS2006_wittig.pdf" target="_blank">John Wittig 2006</a>].
 excerpt: >-
   Barn owls catch mice scurrying in the dark by telling which ear sound arrives at first—to within a microsecond!
 seo:
