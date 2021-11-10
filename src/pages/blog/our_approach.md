@@ -1,7 +1,7 @@
 ---
 title: Our Approach - A Third Alternative for Computation
 date: '2007-08-25'
-author: src/data/alumni/kwabena-boahen.yaml
+author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:

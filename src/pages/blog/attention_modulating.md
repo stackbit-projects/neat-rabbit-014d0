@@ -5,9 +5,9 @@ author: src/data/alumni/tatiana-engel.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-image: images/potential_well_schematic1.png
+image: images/potential_well_schematic2.png
 image_alt:
-figure: images/potential_well_schematic1.png
+figure: images/potential_well_schematic2.png
 figure_caption: >-
   <b>Modulation of On-Off dynamics during attention.</b> <i>Top:</i> Two sites in visual area V4 corresponding to attended (orange ellipse) and unattended (black ellipse) retinotopic locations. <i>Middle:</i> Episodes of vigorous (On) and faint (Off) spiking are apparent in activity recorded from the attended location with a 16-channel multielectrode array. Spikes recorded on each channel during On and Off episodes are depicted by green or magenta ticks, respectively, in the corresponding row of the raster plot. <i>Bottom:</i> Same as Middle but for the unattended location. On average, On-phases are slightly longer in the attended location than in the unattended location.
 excerpt: >-

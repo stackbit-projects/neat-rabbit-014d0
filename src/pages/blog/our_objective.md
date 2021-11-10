@@ -1,7 +1,7 @@
 ---
 title: Our Objectives - Three Complementary Approaches
 date: '2007-08-24'
-author: src/data/alumni/kwabena-boahen.yaml
+author: src/data/team/kwabena-boahen.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
