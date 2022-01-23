@@ -3,6 +3,10 @@
     N A Steinmetz, N N Oza, J J Aguayo and K Boahen, <strong>Neurogrid simulates cortical
     cell-types, active dendrites, and top-down attention</strong>, <em>Neuromorphic Computing
      and Engineering</em>, 2021.</div>'}
+- {href: /documents/2022_neocortex_nature.pdf, id: C54, raw: '<div>Y Shi, N A Steinmetz, T Moore,
+    K Boahen, T A Engel, <strong>Cortical state dynamics and selective attention define the
+    spatial pattern of correlated variability in neocortex</strong>, <em>Nature Communications
+    </em>, vol 13, no 44, 2022.</div>'}
 2011-2020:
 - {href: /documents/ReidPinT_DATE.pdf, id: C52, raw: '<div>S Reid, A Montoya and K
     Boahen, <strong>PinT: Polynomial in Temperature Decode Weights in a Neuromorphic
@@ -13,14 +17,14 @@
     K Boahen,<strong> Braindrop: A Mixed-Signal Neuromorphic Architecture With a Dynamical
     Systems-Based Programming Model</strong>,<em> Proceedings of the IEEE</em>, vol
     107, no 1, pp 144-64, 2019.</div>'}
-- {href: /documents/samfok_phd_thesis.pdf, id: M16, raw: '<div>Fok S. <strong>Communicating and
+- {href: /documents/samfok_phd_thesis.pdf, id: M16, raw: '<div>S Fok, <strong>Communicating and
     Computing with Spikes in Neuromorphic Systems</strong>. Doctoral Dissertation, Department of
     Electrical Engineering, Stanford University, Stanford, CA, 2018.</div>'}
-- {href: /documents/alexneckar_phd_thesis.pdf, id: M15, raw: '<div>Neckar A. <strong>Braindrop: A
+- {href: /documents/alexneckar_phd_thesis.pdf, id: M15, raw: '<div>A Neckar, <strong>Braindrop: A
     Mixed-Signal Neuromorphic Architecture with a Dynamical Systems-Based Programming Model</strong>.
     Doctoral Dissertation, Department of Electrical Engineering, Stanford University, Stanford, CA,
     2018.</div>'}
-- {href: /documents/benbenjamin_phd_thesis.pdf, id: M14, raw: '<div>Benjamin B. <strong>Subthreshold
+- {href: /documents/benbenjamin_phd_thesis.pdf, id: M14, raw: '<div>B Benjamin, <strong>Subthreshold
     Analog Circuit Design for Large-Scale, Low-Power, Spiking Neuromorphic Systems</strong>. Doctoral
     Dissertation, Department of Electrical Engineering, Stanford University, Stanford, CA,
     2018.</div>'}
