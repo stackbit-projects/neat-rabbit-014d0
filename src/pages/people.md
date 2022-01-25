@@ -8,6 +8,7 @@ sections:
       - src/data/team/eric-kauderer-abrams.yaml
       - src/data/team/saarthak-sarup.yaml
       - src/data/team/max-kanwal.yaml
+      - src/data/team/leo-liu.yaml
   - type: alumni_section
     title: Alumni
     team:

@@ -5,7 +5,7 @@ sections:
     title: Research Goals
     pubFile: src/data/pubs3.yaml
     features:
-      - title: Discovering the Brain's Codes and Primitives
+      - title: Discovering Codes and Primitives in the Brain
         content: >-
             A constant chattering of 80 billion neurons through 100 trillion synapses
             could easily overheat our dense brains. To avoid that, each neuron

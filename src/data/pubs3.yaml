@@ -1,12 +1,12 @@
 2021-:
-- {href: /documents/Benjamin_2021_Neuromorph_Comput.pdf, id: C53, raw: '<div>B Benjamin,
-    N A Steinmetz, N N Oza, J J Aguayo and K Boahen, <strong>Neurogrid simulates cortical
-    cell-types, active dendrites, and top-down attention</strong>, <em>Neuromorphic Computing
-     and Engineering</em>, 2021.</div>'}
 - {href: /documents/2022_neocortex_nature.pdf, id: C54, raw: '<div>Y Shi, N A Steinmetz, T Moore,
     K Boahen, T A Engel, <strong>Cortical state dynamics and selective attention define the
     spatial pattern of correlated variability in neocortex</strong>, <em>Nature Communications
     </em>, vol 13, no 44, 2022.</div>'}
+- {href: /documents/Benjamin_2021_Neuromorph_Comput.pdf, id: C53, raw: '<div>B Benjamin,
+    N A Steinmetz, N N Oza, J J Aguayo and K Boahen, <strong>Neurogrid simulates cortical
+    cell-types, active dendrites, and top-down attention</strong>, <em>Neuromorphic Computing
+     and Engineering</em>, 2021.</div>'}
 2011-2020:
 - {href: /documents/ReidPinT_DATE.pdf, id: C52, raw: '<div>S Reid, A Montoya and K
     Boahen, <strong>PinT: Polynomial in Temperature Decode Weights in a Neuromorphic
