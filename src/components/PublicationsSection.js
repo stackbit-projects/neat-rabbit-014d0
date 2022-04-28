@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import {getData, withPrefix, markdownify} from '../utils';
 
-export default class ContentSection extends React.Component {
+export default class PublicationsSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let pubData = getData(this.props.pageContext.site.data, _.get(section, 'pubFile', null));
