@@ -18,6 +18,7 @@ sections:
           - blog/attention_synchrony.md
           - blog/audition_spike_precision.md
         paper_ids:
+          - J47
           - C53
           - C34
           - J23
@@ -31,6 +32,7 @@ sections:
           - blog/neurmorphics_analog_digital.md
           - blog/vision_efficiency.md
         paper_ids:
+          - J47
           - J43
           - C49
           - C43
@@ -45,6 +47,7 @@ sections:
           - blog/computation_nef.md
           - blog/neuroprosthesis_bmi.md
         paper_ids:
+          - J47
           - J44
           - J36
           - C42
