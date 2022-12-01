@@ -36,18 +36,15 @@ export default class PublicationsSection extends React.Component {
                               <h4 className="section__subtitle" id={key}>{key}</h4>
                               <div key={key_idx} className="responsive-table">
                                 <table>
-                                  <thead>
-                                    <tr>
-                                      <th>Article</th>
-                                      <th>Full Text</th>
-                                    </tr>
-                                  </thead>
                                   <tbody>
                                     {_.map(_.get(pubData, key, null), (entry, entry_idx) => {
                                         return (
                                             <tr key={entry_idx}>
                                               {entry.raw && (
-                                              <td>{markdownify(entry.raw)}</td>
+                                              <td>{markdownify(entry.raw)}
+                                              {entry.code_href && (
+                                                  <a href={withPrefix(entry.code_href)} download>Code</a>
+                                              )}</td>
                                               )}
                                               {entry.href && (
                                               <td><a href={withPrefix(entry.href)} target="_blank" rel="noreferrer">PDF</a></td>

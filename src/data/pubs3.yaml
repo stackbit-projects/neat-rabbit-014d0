@@ -1,19 +1,28 @@
 2021-:
+- {href: https://doi.org/10.1038/s41586-022-05340-6, id: J47, raw: '<div> K Boahen, <strong>Dendrocentric Learning for Synthetic
+    Intelligence</strong>, <em>Nature</em>,  vol 612, issue 7938, pp 43-50, 2022.</div>'}
+- {href: /documents/bearded_dragon_TCAS_II_11_9_22_blue.pdf, id: J46, raw: '<div> B Benjamin, R Smith, and K Boahen, <strong>An Analytical MOS Device
+    Model with Mismatch and Temperature Variation for Subthreshold Circuits</strong>, <em>Transactions
+    on Circuits and Systems—II</em>, vol ??, no ??, 2022.</div>'}
+- {href: /documents/2022_noise_plosCB.pdf, id: J45, raw: '<div>J Timcheck, J Kadmon, K Boahen,
+    and S Ganguli, <strong>Optimal Noise Level for Coding with Tightly Balanced Networks of Spiking
+    Neurons in the Presence of Transmission Delays</strong>, <em>PLOS Computational Biology</em>,
+    vol 18, no 10, 2022.</div>'}
 - {href: /documents/2022_neocortex_nature.pdf, id: C54, raw: '<div>Y Shi, N A Steinmetz, T Moore,
-    K Boahen, T A Engel, <strong>Cortical state dynamics and selective attention define the
-    spatial pattern of correlated variability in neocortex</strong>, <em>Nature Communications
-    </em>, vol 13, no 44, 2022.</div>'}
+    K Boahen, and T A Engel, <strong>Cortical State Dynamics and Selective Attention Define the
+    Spatial Pattern of Correlated Variability in Neocortex</strong>, <em>Nature Communications</em>,
+    vol 13, no 44, pp 1-15, 2022.</div>'}
 - {href: /documents/Benjamin_2021_Neuromorph_Comput.pdf, id: C53, raw: '<div>B Benjamin,
-    N A Steinmetz, N N Oza, J J Aguayo and K Boahen, <strong>Neurogrid simulates cortical
-    cell-types, active dendrites, and top-down attention</strong>, <em>Neuromorphic Computing
-     and Engineering</em>, 2021.</div>'}
+    N A Steinmetz, N N Oza, J J Aguayo, and K Boahen, <strong>Neurogrid Simulates Cortical
+    Cell-Types, Active Dendrites, and Top-Down Attention</strong>, <em>Neuromorphic Computing
+     and Engineering</em>, vol 1, no 1, pp 1-12, 2021.</div>'}
 2011-2020:
-- {href: /documents/ReidPinT_DATE.pdf, id: C52, raw: '<div>S Reid, A Montoya and K
+- {href: /documents/ReidPinT_DATE.pdf, id: C52, raw: '<div>S Reid, A Montoya, and K
     Boahen, <strong>PinT: Polynomial in Temperature Decode Weights in a Neuromorphic
-    Architecture</strong>, <em>DATE 2019-Design, Automation &amp; Test in Europe</em>.
+    Architecture</strong>, <em>DATE 2019-Design, Automation &amp; Test in Europe</em>, pp 60-65.
     March 2019.</div>'}
 - {href: /documents/ANeckar2019.pdf, id: J44, raw: '<div>A Neckar,
-    S Fok, B Benjamin, T C Stewart, N N Oza, A R Voelker, C Eliasmith, R Manohar,
+    S Fok, B Benjamin, T C Stewart, N N Oza, A R Voelker, C Eliasmith, R Manohar, and
     K Boahen,<strong> Braindrop: A Mixed-Signal Neuromorphic Architecture With a Dynamical
     Systems-Based Programming Model</strong>,<em> Proceedings of the IEEE</em>, vol
     107, no 1, pp 144-64, 2019.</div>'}
@@ -29,12 +38,12 @@
     Dissertation, Department of Electrical Engineering, Stanford University, Stanford, CA,
     2018.</div>'}
 - {href: /documents/ANeckar2018.pdf, id: C51, raw: '<div>A Neckar,
-    T Stewart, B Benjamin and K Boahen, <strong>Optimizing an Analog Neuron Circuit
+    T Stewart, B Benjamin, and K Boahen, <strong>Optimizing an Analog Neuron Circuit
     Design for Nonlinear Function Approximation</strong>, <em>IEEE International Symposium
-    on Circuits and System (ISCAS)</em>, pp 1-4, Florence ITALY, May 2018.</div>'}
+    on Circuits and System (ISCAS)</em>, pp 1-4, Florence Italy, May 2018.</div>'}
 - {href: /documents/serial-h-tree.pdf, id: C50, raw: '<div>S Fok and K Boahen, <strong>A
     Serial H-Tree Router for Two-Dimensional Arrays</strong>, <em>24th IEEE Symposium
-    on Asynchronous Circuits and Systems, </em>IEEE Press, 2018.</div>'}
+    on Asynchronous Circuits and Systems, </em>pp 78-85, 2018.</div>'}
 - {href: /documents/Ashok2017.pdf, id: C49, raw: '<div>A Cutkosky
     and K Boahen, <strong>Stochastic and Adversarial Online Learning Without Hyperparameters</strong>,
     <em>Advances in Neural Information Processing Systems 30,</em> Curran Associates,
@@ -43,17 +52,17 @@
     <strong>Online Learning Without Prior Information</strong>, <em>Conference on
     Learning Theory</em>, pp 643-677, 2017.</div>'}
 - {href: /documents/abrams2.pdf, id: C47, raw: '<div>E Kauderer-Abrams,
-    A Gilbert, A Voelker, B Benjamin, and T C Stewart, and K Boahen, <strong>A Population-Level
+    A Gilbert, A Voelker, B Benjamin, T C Stewart, and K Boahen, <strong>A Population-Level
     Approach to Temperature Robustness in Neuromorphic Systems</strong>, <em>IEEE
-    International Symposium on Circuits and Systems (ISCAS)</em>, Baltimore MD, 2017.</div>'}
+    International Symposium on Circuits and Systems (ISCAS)</em>, pp 1-4, Baltimore MD, 2017.</div>'}
 - {href: /documents/abrams1.pdf, id: C46, raw: '<div>E Kauderer-Abrams and K Boahen,
     <strong>Calibrating Silicon-Synapse Dynamics using Time-Encoding and Decoding
-    Machines</strong>, <em>IEEE International Symposium on Circuits and Systems (ISCAS)</em>,
+    Machines</strong>, <em>IEEE International Symposium on Circuits and Systems (ISCAS)</em>, pp 1-4,
     Baltimore MD, 2017.</div>'}
 - {href: /documents/avoelker.pdf, id: C45, raw: '<div>A R Voelker,
     B V Benjamin, T C Stewart, K Boahen, and C Eliasmith, <strong>Extending the Neural
     Engineering Framework for Nonideal Silicon Synapses</strong>, <em>IEEE International
-    Symposium on Circuits and Systems (ISCAS)</em>, Baltimore MD, 2017.</div>'}
+    Symposium on Circuits and Systems (ISCAS)</em>, pp 1-4, Baltimore MD, 2017.</div>'}
 - {href: /documents/IEEE2017.pdf, id: J43, raw: '<div>  K Boahen, <strong>A Neuromorph''s
     Prospectus</strong>, <em>Computing in Science &amp; Engineering</em>,  vol 19,
     no 2, pp 14-28, IEEE Computer Society, Los Alamitos CA, USA, 2017.</div>'}
@@ -64,7 +73,7 @@
 - {href: /documents/16_journ_Science.pdf, id: J42, raw: '<div> T
     Engel, N A Steinmetz, M A Gieselmann, A Thiele, T Moore, and K Boahen,<strong>
     Selective Modulation of Cortical State During Spatial Attention</strong>,<em>
-    Science</em>, vol. 354, issue 6316, pp. 1140-1144, December 2, 2016. </div>'}
+    Science</em>, vol 354, issue 6316, pp 1140-1144, December 2, 2016. </div>'}
 - {href: /documents/bloomfeatures.pdf, id: C43, raw: '<div>A Cutkosky
     and K Boahen, <strong>Bloom Features</strong>, <em>IEEE International Conference
     on Computation Science and Computational</em> <em>Intelligence</em>, IEEE Computer
@@ -81,32 +90,32 @@
 - {href: /documents/Menon-BioRob.pdf, id: C42, raw: '<div>S Menon, S Fok, A Neckar,
     O Khatib, and K  Boahen, <strong>Controlling Articulated Robots in Task-Space
     with Spiking Silicon  Neurons</strong>, <em>IEEE International Conference on Biomedical
-    Robotics and Biomechatronics  (BioRob)</em>, IEEE  Press, pp nn-mm, 2014.            </div>'}
+    Robotics and Biomechatronics  (BioRob)</em>, IEEE  Press, pp 181-186, 2014.</div>'}
 - {href: /documents/WittigNeuromorphicCochlearNucleus.pdf, id: J39, raw: '<div> J H
-    Wittig and K Boahen,<strong> Potassium conductance dynamics  confer robust spike-time
-    precision in a neuromorphic model of the auditory  brainstem</strong>, <em><em>Journal
-    of Neurophysiology</em>,  </em>vol 110, pp 307-21, 2013</div>'}
+    Wittig and K Boahen,<strong> Potassium Conductance Dynamics Confer Robust Spike-Time
+    Precision in a Neuromorphic Model of the Auditory Brainstem</strong>, <em>Journal
+    of Neurophysiology</em>, vol 110, no 2, pp 307-321, 2013</div>'}
 - {href: /documents/GaoTCASMay2012.pdf, id: J36, raw: '<div>P Gao,
-    B V Benjamin and K Boahen,<strong> Dynamical system guided mapping of quantitative
-    neuronal models onto neuromorphic hardware</strong>, <em>IEEE Transactions on
-    Circuits and Systems</em>.Vol 59, no 10, pp 2383-94, Oct 2012</div>'}
+    B V Benjamin, and K Boahen,<strong> Dynamical System Guided Mapping of Quantitative
+    Neuronal Models onto Neuromorphic Hardware</strong>, <em>IEEE Transactions on
+    Circuits and Systems</em>. vol 59, no 10, pp 2383-2394, Oct 2012.</div>'}
 - {href: /documents/AlvarezIOmirrorsJoint.pdf, id: J37, raw: '<div> R Alvarez-Icaza
-    and K Boahen,<strong> Inferior Olive Mirrors  Joint Dynamics to Implement an Inverse
-    Controller</strong>, <em>Biological Cybernetics, </em>vol 106 issue 8-9, pp 429-39,
+    and K Boahen,<strong> Inferior Olive Mirrors Joint Dynamics to Implement an Inverse
+    Controller</strong>, <em>Biological Cybernetics, </em>vol 106, issue 8-9, pp 429-39,
     August 2012 </div>'}
 - {href: /documents/DethierJNE2013.pdf, id: J38, raw: '<div>J Dethier,
-    P Nuyujukian, S I Ryu, K V Shenoy, and K A Boahen,<strong> Design and validation
-    of a real-time spiking-neural-network decoder for brain machine interfaces</strong>,
-    <em>Journal of Neural Engineering</em>.            Vol  10, p. 036008, Apr 2012</div>'}
-- {href: /documents/NEFonNeurogrid.pdf, id: C41, raw: '<div> Choudhary,
+    P Nuyujukian, S I Ryu, K V Shenoy, and K A Boahen,<strong> Design and Validation
+    of a Real-Time Spiking-Neural-Network Decoder for Brain Machine Interfaces</strong>,
+    <em>Journal of Neural Engineering</em>. vol 10, p. 036008, Apr 2012.</div>'}
+- {href: /documents/NEFonNeurogrid.pdf, id: C41, raw: '<div>S Choudhary,
     S Sloan, S Fok, A Neckar, E Trautmann, P Gao, T Stewart, C Eliasmith, and K Boahen,
     <strong>Silicon Neurons that Compute</strong>, <em>International Conference on
-    Artificial Neural Networks</em>, LNCS vol 7552, pp 121-28, Springer, Heidelberg,
+    Artificial Neural Networks</em>, LNCS, vol 7552, pp 121-28, Springer, Heidelberg,
     2012.  </div>'}
 - {href: /documents/2012_synembc.pdf, id: C40, raw: '<div> B V Benjamin, J V Authur,
-    P Gao, P Merolla and K Boahen, <strong>Superposable Silicon Synapse with Programmable
+    P Gao, P Merolla, and K Boahen, <strong>Superposable Silicon Synapse with Programmable
     Reversal Potential</strong>, <em>International Conference of the IEEE Engineering
-    and Medicine in Biology Society</em>, pp 771-4, 2012. </div>'}
+    and Medicine in Biology Society</em>, pp 771-774, 2012. </div>'}
 - {href: /documents/SNNforBMI_NIPS11.pdf, id: C39, raw: '<div> J
     Dethier,  P Nuyujukian, C Eliasmith, T Stewart, S A Elassaad, K V Shenoy, and
     K Boahen, <strong>A Brain-Machine Interface Operating with a Real-Time Spiking
@@ -117,80 +126,80 @@
     Neural Network Decoder for Brain-Machine Interfaces</strong>, <em>IEEE EMBS Conference
     on Neural Engineering</em>, IEEE Press, pp 369-399, 2011. </div>'}
 - {href: /documents/DCN_BiolCyber_2011.pdf, id: J35, raw: "<div> R Alvarez-Icaza and\
-    \ K Boahen,<strong> Deep cerebellar neurons mirror the spinal cord\u2019s gain\
-    \ to implement an inverse controller</strong>, <em>Biological Cybernetics, </em>vol\
-    \ 105, issue 1, pp 29-20, August 2011</div>"}
+    \ K Boahen,<strong> Deep Cerebellar Neurons Mirror the Spinal Cord\u2019s Gain\
+    \ to Implement an Inverse Controller</strong>, <em>Biological Cybernetics, </em>vol\
+    \ 105, issue 1, pp 29-20, August 2011.</div>"}
 - {href: /documents/SridharTectumSpaceCoding.pdf, id: J34, raw: '<div>D
-    Sridharan, K Boahen and E Knudsen, <strong>Space Coding by Gamma Oscillations
-    in the Barn Owl Optic Tectum</strong>, <em> <em>Journal of Neurophysiology</em></em>,
-    vol 105, pp 2005-2017, May 2011</div>'}
+    Sridharan, K Boahen, and E Knudsen, <strong>Space Coding by Gamma Oscillations
+    in the Barn Owl Optic Tectum</strong>, <em>Journal of Neurophysiology</em>,
+    vol 105, no 5, pp 2005-2017, May 2011.</div>'}
 - {href: /documents/arthur_boahen_tcas_neuron_final.PDF, id: J33, raw: '<div>J V Arthur
     and K Boahen,<strong> Silicon Neuron Design: The Dynamical Systems Approach</strong>,
     <em>IEEE Transactions on Circuits and Systems</em>,vol 58, no 5, pp 1034-1043,
-    May 2011</div>'}
+    May 2011.</div>'}
 2001-2010:
 - {href: /documents/4change1_4pgAcro.pdf, id: C37, raw: '<div> A
     Chandrasekaran and K Boahen, <strong>A 1-change-in-4  Delay-Insensitive Interchip
     Link</strong>, <em>IEEE  International Symposium on Circuits and Systems</em>,
-    IEEE Press,pp 3216-3219, 2010. </div>'}
+    IEEE Press, pp 3216-3219, 2010. </div>'}
 - {href: /documents/09_conf_IEEE_DI_AER.pdf, id: C36, raw: '<div>J Lin  and K Boahen,
     <strong>A Delay-Insensitive Address-Event Link</strong>,            <em>15th IEEE  Symposium
     on Asynchronous Circuits and Systems</em>,   IEEE Press, pp 55-62, 2009. </div>'}
 - {href: /documents/WenActiveCouplingCochlea.pdf, id: J32, raw: '<div>
     B Wen and K Boahen, <strong>A Silicon Cochlea with  Active Coupling</strong>,
     <em>IEEE Transactions on Biomedical Circuits and Systems, </em>vol 3, no 6, pp
-    444-455, December 2009</div>'}
+    444-455, December 2009.</div>'}
 - {href: /documents/HynnaBoahen09.pdf, id: J31, raw: '<div>K M Hynna and K Boahen,
     <strong>Nonlinear Influence of T-Channels in an in-silico Relay Neuron</strong>,
-    <em>IEEE Transactions on Biomedical Engineering</em>, vol 56, no 6, pp 1734-43,
-    June 2009</div>'}
+    <em>IEEE Transactions on Biomedical Engineering</em>, vol 56, no 6, pp 1734-1743,
+    June 2009<./div>'}
 - {href: /documents/08_conf_NIPS_DynamicRouting_000.pdf, id: C35, raw: '<div>D Sridharan,
     B Percival, J Arthur and K Boahen, <strong>An <em>in-silico</em> Neural Model
     of Dynamic Routing through Neuronal Coherence</strong>, <em>Advances in Neural
     Information Processing Systems 20</em>, D Koller, Y Singer and J Platt Eds., MIT
-    Press, pp 1401-08, 2008.</div>'}
+    Press, pp 1401-1408, 2008.</div>'}
 - {href: /documents/07_conf_ISCS_BurstPrimed.pdf, id: C34, raw: '<div>K M Hynna and
     K Boahen, <strong>Silicon Neurons that Burst when Primed</strong>, <em>IEEE International
     Symposium on Circuits and Systems</em>,  IEEE Press, pp 3363-66, 2007. </div>'}
 - {href: /documents/07_Journ_JN_Neurotech.pdf, id: J30, raw: '<div>R Silver, K Boahen,
-    S Grillner, N Kopell and K L Olsen, <strong>Neurotech for neuroscience: Unifying
-    concepts, organizing principles, and emerging tools</strong>, <em>Journal of Neuroscience</em>,vol
-    27, no 44, pp 11807-819, October 2007<em><br/></em></div>'}
+    S Grillner, N Kopell, and K L Olsen, <strong>Neurotech for Neuroscience: Unifying
+    Concepts, Organizing Principles, and Emerging Tools</strong>, <em>Journal of Neuroscience</em>, vol
+    27, no 44, pp 11807-11819, October 2007.</div>'}
 - {href: /documents/07_Journ_IEEEtransNN_Synchrony.pdf, id: J29, raw: "<div> J V Arthur\
     \ and K Boahen,\_ <strong>Synchrony in Silicon: The Gamma Rhythm</strong>, <em>IEEE\
-    \ Transactions on Neural Networks, </em>vol PP, issue 99, 2007<em> </em><br/></div>"}
+    \ Transactions on Neural Networks, </em>vol 18, no 6, pp 1815-1825, 2007.</div>"}
 - {href: /documents/07_JNPhys_Ganglion_Cells.pdf, id: J28, raw: '<div> K A Zaghloul,
-    M Manookin, B Borghuis, K Boahen and J B Demb, <strong>Functional circuitry for
-    peripheral suppression in mammalian Y-type ganglion cells</strong>,<em> <em>Journal
-    of Neurophysiology</em>,</em> vol 97, pp 4327-4340, 2007<em><br/></em></div>'}
+    M Manookin, B Borghuis, K Boahen, and J B Demb, <strong>Functional Circuitry for
+    Peripheral Suppression in Mammalian Y-type Ganglion Cells</strong>, <em>Journal
+    of Neurophysiology</em>, vol 97, no 6, pp 4327-4340, 2007.</div>'}
 - {href: /documents/07_NComp_Channels.pdf, id: J27, raw: "<div> K M Hynna and K Boahen,\
     \ <strong>Thermodynamically-Equivalent Silicon Models of \_Ion Channels</strong>,\
-    \ <em>Neural Computation</em>, vol 19, no 2, pp 327-350, February 2007 <br/></div>"}
+    \ <em>Neural Computation</em>, vol 19, no 2, pp 327-350, February 2007.</div>"}
 - {href: /documents/07_journ_IEEEtcs_ExpandableNetwords.pdf, id: J26, raw: "<div>P\
-    \ Merolla, J   Arthur, B E Shi and K Boahen,\_ <strong>Expandable Networks for\
-    \   Neuromorphic Chips</strong>, <em> <em>IEEE Transactions on Circuits and Systems\
-    \ I</em></em>, vol 54, No 2. pp 301-311, February 2007 <em><br/></em></div>"}
+    \ Merolla, J   Arthur, B E Shi, and K Boahen,\_ <strong>Expandable Networks for\
+    \   Neuromorphic Chips</strong>, <em>IEEE Transactions on Circuits and Systems\
+    \ I</em>, vol 54, no 2, pp 301-311, February 2007.</div>"}
 - {href: /documents/06_conf_MSCS_ProgConnect.pdf, id: C33, raw: '<div>            J
-    Lin, P Merolla, J Arthur and K Boahen, <b>Programmable Connections in Neuromorphic
+    Lin, P Merolla, J Arthur, and K Boahen, <b>Programmable Connections in Neuromorphic
     Grids</b>, <i>49th IEEE Midwest Symposium on Circuits and Symtems</i>,  IEEE Press,
     pp 80-84, 2006.        </div>'}
 - {href: /documents/ISCAS2006_wittig.pdf, id: C32, raw: '<div>            J H Wittig
     Jr. and K Boahen, <b>Silicon Neurons that Phase-Lock</b>, <i>IEEE            International
-    Symposium on Circuits and Systems</i>,            IEEE Press, pp 4535-38, 2006.</div>'}
+    Symposium on Circuits and Systems</i>,            IEEE Press, pp 4535-4538, 2006.</div>'}
 - {href: /documents/ISCAS2006_merolla.pdf, id: C31, raw: '<div>            P A Merolla
     and K Boahen, <b>Dynamic Computation in a Recurrent Network            of Heterogeneous
     Silicon Neurons</b>, <i>IEEE International Symposium            on Circuits and
-    Systems</i>,            IEEE Press, pp 4539-42, 2006.        </div>'}
+    Systems</i>,            IEEE Press, pp 4539-4542, 2006.</div>'}
 - {href: /documents/ISCAS2006_hynna.pdf, id: C30, raw: '<div>            K M Hynna
     and K Boahen, <b>Neuronal Ion-Channel Dynamics in Silicon</b>, <i>IEEE            International
-    Symposium on Circuits and Systems</i>,            IEEE Press, pp 3614-17, 2006.</div>'}
+    Symposium on Circuits and Systems</i>,            IEEE Press, pp 3614-3617, 2006.</div>'}
 - {href: /documents/ISCAS2006_arthur.pdf, id: C29, raw: '<div>            J V Arthur
     and K Boahen, <b>Silicon Neurons that Inhibit to Synchronize</b>, <i>IEEE            International
-    Symposium on Circuits and Systems</i>,            IEEE Press, pp 4807-10, 2006.</div>'}
+    Symposium on Circuits and Systems</i>,            IEEE Press, pp 4807-4810, 2006.</div>'}
 - {href: /documents/06_conf_ISSCC_SpeechPreprocess.pdf, id: C28, raw: '<div>            B
     Wen and K Boahen, <b>A 360-Channel Speech Preprocessor that Emulates the Cochlear
     Amplifier</b>, <i>IEEE International Solid-State Circuits Conference</i>, Digest
-    of Technical Papers, IEEE Press, pp 556-7, 2006.        </div>'}
+    of Technical Papers, IEEE Press, pp 556-557, 2006.</div>'}
 - {href: /documents/05_conf_NIPS_SiCones.pdf, id: C27, raw: '<div>            B Taba
     and K Boahen, <b>Silicon Growth Cones Map Silicon Retina</b>, <i>Advances in Neural
     Information Processing Systems 18</i>, B Sholkopf and Y Weiss, Eds, MIT Press,
@@ -198,41 +207,41 @@
 - {href: /documents/05_conf_NIPS_ActiveCochlea.pdf, id: C26, raw: '<div>            B
     Wen and K Boahen, <b>Active Bidirectional Coupling in a Cochlear Chip</b>, <i>Advances
     in Neural Information Processing Systems 18</i>, B Sholkopf and Y Weiss, Eds,
-    MIT Press, pp 1497-504,  2006.        </div>'}
+    MIT Press, pp 1497-1504,  2006.        </div>'}
 - {href: /documents/05_conf_NIPS_SiLearning.pdf, id: C25, raw: '<div>J V Arthur and K Boahen, <b>Learning in Silicon: Timing is Everything</b>, <i>Advances
     in Neural Information Processing Systems 18</i>, B Sholkopf and Y Weiss, Eds,
     MIT Press, pp 75-82, 2006.</div>'}
 - {href: /documents/06_ZaghloulBoahenJNE06.pdf, id: J25, raw: '<div>K A Zaghloul and
-    K   Boahen, <strong>A silicon retina that   reproduces signals in the optic nerve</strong>,
-    <em>Journal of Neural   Engineering</em>., vol 3, no 4, pp 257-267, December 2006<br/></div>'}
-- {href: /documents/PMerolla_dissertation.pdf, id: M13, raw: '<div>Merolla P. <strong>A
-    Silicon Model of the Primary Visual Cortex: Representing      Features Through
+    K   Boahen, <strong>A Silicon Retina that Reproduces Signals in the Optic Nerve</strong>,
+    <em>Journal of Neural Engineering</em>, vol 3, no 4, pp 257-267, December 2006.</div>'}
+- {href: /documents/PMerolla_dissertation.pdf, id: M13, raw: '<div>P Merolla, <strong>A
+    Silicon Model of the Primary Visual Cortex: Representing Features Through
     Stochastic Variations. </strong>Doctoral Dissertation,      Department of Bioengineering,
     University of Pennsylvania, Philadelphia,      PA, 2006.</div>'}
-- {href: /documents/JArthur_dissertation.pdf, id: M12, raw: '<div>Arthur J. <strong>Learning
+- {href: /documents/JArthur_dissertation.pdf, id: M12, raw: '<div>J V Arthur, <strong>Learning
     In Silicon: A Neuromorphic Model of the Hippocampus</strong>.    Doctoral Dissertation,
     Department of Bioengineering, University of Pennsylvania,    Philadelphia, PA,
     2006.</div>'}
-- {href: /documents/06_Thesis_BoWen.pdf, id: M11, raw: '<div>Wen B. <strong>Modeling
+- {href: /documents/06_Thesis_BoWen.pdf, id: M11, raw: '<div>B Wen, <strong>Modeling
     The Nonlinear Active Chochlea: Mathematics and      Analog VLSI </strong>. Doctoral
     Dissertation,      Department of Bioengineering, University of Pennsylvania, Philadelphia,      PA,
     2006.</div>'}
 - {href: /documents/06_book_VP&OD_RetinaCircuits.pdf, id: M10, raw: '<div>            K
     A Zaghloul and K Boahen, <b>Circuit Designs that Model the Properties of the Outer
     and Inner Retina</b>, <i>Visual Prosthetics and Ophthalmic Devices: New Hope in
-    Sight</i>, J Tombran-Tink &amp; C J Barnstable, Eds.  In press.        </div>'}
-- {href: /documents/NME4_USBrevolution.pdf, id: M9, raw: '<div>Merolla P, Arthur J,
-    and Wittig J Jr. <strong>The                      USB Revolution</strong>.            The
-    Neuromorphic Engineer, 2(2):10-11, 2005. </div>'}
-- {href: /documents/KHynna_dissertation.pdf, id: M8, raw: '<div>Hynna K. <strong>T
+    Sight</i>, J Tombran-Tink &amp; C J Barnstable, Eds,  pp 135-158, 2005.        </div>'}
+- {href: /documents/NME4_USBrevolution.pdf, id: M9, raw: '<div>P Merolla, J V Arthur,
+    and J H Wittig Jr, <strong>The                      USB Revolution</strong>.            The
+    Neuromorphic Engineer, vol 2, no 2, pp 10-11, 2005. </div>'}
+- {href: /documents/KHynna_dissertation.pdf, id: M8, raw: '<div>K Hynna, <strong>T
     Channel Dynamics in a Silicon LGN</strong>. Doctoral Dissertation, Department
     of Bioengineering, University of Pennsylvania, Philadelphia, PA, 2005.</div>'}
-- {href: /documents/05_Thesis_BrianTaBa.pdf, id: M7, raw: '<div>Taba B . <strong>Self-Organizing
+- {href: /documents/05_Thesis_BrianTaBa.pdf, id: M7, raw: '<div>B Taba, <strong>Self-Organizing
     Neuromorphic Systems with Silicon Growth Cones </strong>. Doctoral Dissertation,
     Department of Neuroscience, University of Pennsylvania, Philadelphia, PA, December
     2005.</div>'}
 - {href: /documents/05_journ_IEEEtcs_hyprcol.pdf, id: J24, raw: '<div>T
-    Y W Choi, P Merolla, J Arthur, K Boahen and B E Shi, <b>Neuromorphic Implementation
+    Y W Choi, P Merolla, J Arthur, K Boahen, and B E Shi, <b>Neuromorphic Implementation
     of Orientation Hypercolumns</b>, <i>IEEE Transactions on Circuits and Systems
     I</i>, vol 52, no 6, pp 1049-1060, June 2005.</div>'}
 - {href: /documents/05_journ_SciAm_NeurmorphChips.pdf, id: J23, raw: '<div>K
@@ -250,16 +259,16 @@
     \          B Taba and K Boahen, <b>Balancing Guidance Range and Strength Optimizes\
     \ Self-Organization by Silicon Growth Cones</b>, <i>Artificial Neural Networks:\
     \ Biological Inspirations \u2014 ICANN 2005: 15th International Conference</i>,\
-    \ W Duch, J Kacprzyk, E Oja, et al. Eds, LCNS 3697, pp 1027-34, Springer-Verlag\
+    \ W Duch, J Kacprzyk, E Oja, et al. Eds, LCNS 3697, pp 1027-1034, Springer-Verlag\
     \ Berlin, 2005.        </div>"}
 - {href: /documents/05_conf_IEEE_guiding_connections.pdf, id: C23, raw: '<div> S Y
-    M Lam, B E Shi and K Boahen, <strong>Self-organized Cortical Map Formation by
+    M Lam, B E Shi, and K Boahen, <strong>Self-Organized Cortical Map Formation by
     Guiding Connections</strong>, <em>IEEE International Symposium on Circuits and
     Systems</em>, pp 5230-33, 2005. </div>'}
 - {href: /documents/04_conf_IJCNN_Learning.pdf, id: C22, raw: '<div>J
     V Arthur and K Boahen, <b>Recurrently Connected Silicon Neurons with Active Dendrites
     for One-Shot Learning</b>, <i>International Joint Conference on Neural Networks</i>,
-    IJCNN''04, IEEE Press, pp 1699-704, 2004.</div>'}
+    IJCNN''04, IEEE Press, pp 1699-1704, 2004.</div>'}
 - {href: /documents/03_conf_NIPS_Recurrent.pdf, id: C21, raw: '<div>P
     Merolla and K Boahen, <b>A Recurrent Model of Orientation Maps with Simple and
     Complex Cells</b>, <i>Advances in Neural Information Processing Systems 16</i>,
@@ -294,7 +303,7 @@
     vol 51 no 4, pp 657-666, 2004.        </div>'}
 - {href: /documents/04_INE_WordSerial_AER_Compiler.pdf, id: M6, raw: '<div>Lin J,  <strong>Word-serial
     address-event transceiver layout compiler </strong>.              The Neuromorphic
-    Engineer, 1(2):2, 2004. </div>'}
+    Engineer, vol 1, no 2, pp 2, 2004. </div>'}
 - {href: /documents/03_journ_JN_ContrSens.pdf, id: J14, raw: '<div>            K A
     Zaghloul, K A Boahen, and J B Demb, <b>Different Circuits for ON and OFF Retinal
     Ganglion Cells cause Different Contrast Sensitivities</b>, <i>Journal of Neuroscience</i>,
@@ -325,12 +334,12 @@
 - {href: /documents/02_journ_IEEEtcs_Compet.pdf, id: J12, raw: '<div>            B
     E Shi and K A Boahen, <b>Competitively Coupled Orientation Selective Cellular
     Neural Networks</b>, <i>IEEE Transactions on Circuits and Systems I</i>, vol 49,
-    no 3, pp388-394, 2002.        </div>'}
+    no 3, pp 388-394, 2002.        </div>'}
 - {href: /documents/02_journ_JAICSP_Retin.pdf, id: J11, raw: '<div>            K A
     Boahen, <b>A Retinomorphic Chip with Parallel Pathways: Encoding ON, OFF, INCREASING,
     and DECREASING Visual Signals</b>, <i>Journal of Analog Integrated Circuits and
     Signal Processing</i>, vol 30, no 2, pp 121-135, 2002.  Invited paper        </div>'}
-- {href: /documents/01_Thesis_KareemZaghloul.pdf, id: M5, raw: '<div>Zaghloul, K.A.
+- {href: /documents/01_Thesis_KareemZaghloul.pdf, id: M5, raw: '<div>K A Zaghloul,
     <strong>A Silicon Implementation of a Novel Model for Retinal Processing</strong>.
     Doctoral Dissertation, Department of Neuroscience, University of Pennsylvania,
     Philadelphia, PA, December 2001.</div>'}
@@ -341,9 +350,9 @@
 - {href: /documents/01_journ_NN_Space.pdf, id: J9, raw: '<div>            K Hynna
     and K A Boahen, <b>Space-Rate Coding in an Adaptive Silicon Neuron</b>, <i>Neural
     Networks</i>, Special Issue on <i>Spiking Neurons in Neuroscience and Technology</i>,
-    vol 14, no 6-7, pp 645-656, 2001. Invited paper        </div>'}
+    vol 14, no 6-7, pp 645-656, 2001. Invited paper.        </div>'}
 - {href: /documents/01_conf_ISCS_HighDyn.pdf, id: C14, raw: '<div>            E Culurciello,
-    R Etienne-Cummings, and K Boahen, <b>High dynamic range, arbitrated Address Event
+    R Etienne-Cummings, and K Boahen, <b>High Dynamic Range, Arbitrated Address Event
     Representation Digital Imager</b>, <i>IEEE International Symposium on Circuits
     and Systems</i>, vol 2, pp 505-508, 2001.        </div>'}
 - {href: /documents/01_conf_ECCdiv_Orientation.pdf, id: C13, raw: '<div>            B
@@ -358,10 +367,10 @@
 - {href: /documents/00_journ_IEEEtsc_Point.pdf, id: J8, raw: '<div>            K A
     Boahen, <b>Point-to-Point Connectivity Between Neuromorphic Chips using Address-Events</b>,
     <i>IEEE Transactions on Circuits &amp; Systems II</i>, vol 47 no 5, pp 416-434,
-    2000. Invited Paper        </div>'}
+    2000. Invited paper.        </div>'}
 - {href: /documents/99_conf_IEEEcsp_Retin.pdf, id: C11, raw: '<div>            K A
     Boahen, <b>Retinomorphic Chips that see Quadruple Images</b>, <i>7th International
-    Conference on Microelectronics for Neural, Fuzzy, and Bio-Inspired Systems (MicroNeuro?99)</i>,
+    Conference on Microelectronics for Neural, Fuzzy, and Bio-Inspired Systems (MicroNeuro 99)</i>,
     IEEE Computer Society Press, Los Alamitos CA, pp 12-20, 1999. Invited paper.        </div>'}
 - {href: /documents/99_conf_IEEEcsp_Through.pdf, id: C10, raw: "<div>            K\
     \ A Boahen, <b>A Throughput-On-Demand Address-Event Transmitter for Neuromorphic\
@@ -383,7 +392,7 @@
     Andreou and K A Boahen, <b>Translinear Circuits in Subthreshold MOS</b>, <i>Journal
     of Analog Integrated Circuits and Signal Processing</i>, vol 9, pp 141-166, 1996.        </div>'}
 - {href: /documents/96_journ_IEEEmicros_Retino.pdf, id: J5, raw: '<div>            K
-    A Boahen, <b>A retinomorphic vision system</b>, <i>IEEE Micro</i>, Vol 16, issue
+    A Boahen, <b>A retinomorphic vision system</b>, <i>IEEE Micro</i>, vol 16, issue
     5, pp 30-39, 1996.        </div>'}
 - {href: /documents/96_conf_ISCS_RetII.pdf, id: C9, raw: '<div>            K A Boahen,
     <b>Retinomorphic Systems II: Communication Channel Design</b>, <i>IEEE International
@@ -392,7 +401,7 @@
     <b>Retinomorphic Systems I: Pixel Design</b>, <i>IEEE International Symposium
     on Circuits and Systems</i>, Supplement, pp 9-13, 1996.        </div>'}
 - {href: /documents/96_conf_NIPS_Adaptive.pdf, id: C7, raw: '<div>            S-C
-    Liu and K A Boahen, <b>Adaptive retina with center-surround receptive field</b>,
+    Liu and K A Boahen, <b>Adaptive Retina with Center-Surround Receptive Field</b>,
     <i>Advances in Neural Information Processing Systems</i>, D S Touretzky, M C Mozer,
     and M E  Hasselmo, Eds, vol 8, pp 678-684, MIT Press, Cambridge MA, 1996.        </div>'}
 - {href: /documents/96_conf_MicroNeuro_Retin.pdf, id: C6, raw: '<div>            K
@@ -400,7 +409,7 @@
     on Microelectronics for Neural Networks and Fuzzy Systems (MicroNeuro?96)</i>,
     IEEE Computer Soc. Press, pp 2-14, 1996. Invited Paper        </div>'}
 - {href: /documents/95_conf_CARVLSI_590kTrans.pdf, id: C5, raw: "<div>           \
-    \ A G Andreou and K A Boahen, <b>A 590,000 Transistor, 48,000 Pixel Contrast-Sensitive,\
+    \ A G Andreou, and K A Boahen, <b>A 590,000 Transistor, 48,000 Pixel Contrast-Sensitive,\
     \ Edge-Enhancing CMOS Imager</b>, <i>16th Conference on Advanced Research in VLSI\
     \ (ARVLSI\uBDF5)</i>, pp 225-240, 1995.        </div>"}
 - {href: /documents/95_journ_NN_AVLSI.pdf, id: J4, raw: '<div>            A G Andreou,
@@ -426,8 +435,8 @@
     Analog VLSI Neural Systems</b>, <i>IEEE Trans. on Neural Networks</i>, vol 2,
     no 2, pp 205-213, 1991.        </div>'}
 - {href: /documents/91_conf_ISCS_GrayCode.pdf, id: C2, raw: '<div>            P O
-    Pouliquen, K A Boahen, A G Andreou, <b>A Gray-code MOS current-mode analog-to-digital
-    converter design</b>, <i>IEEE International Sympoisum on Circuits and Systems</i>,
+    Pouliquen, K A Boahen, and A G Andreou, <b>A Gray-Code MOS Current-Mode Analog-to-Digital
+    Converter Design</b>, <i>IEEE International Sympoisum on Circuits and Systems</i>,
     vol 4, pp 1924-1927, 1991.        </div>'}
 1989-1990:
 - {href: /documents/89_conf_AR_AssocMem.pdf, id: C1, raw: '<div>            K A Boahen,

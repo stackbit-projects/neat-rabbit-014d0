@@ -34,21 +34,14 @@ sections:
           layer, repeating these calculations for each tier of connections.
           Communicating weights to and fro, between memory and processor,
           consumes by far the most energy. This weight movement is eliminated by
-          calculating a vector-matrix product inside the 2D array of memory
-          cells. A vector represented as voltages on word lines is multiplied by
-          a matrix represented as charge in the memory cells to yield a vector
-          represented as currents on bit lines. Now energy consumption is
-          dominated by skip, residual, or feedback connections that route
-          signals to non-sequential crossbars. Stacking the crossbars shortens
+          calculating a vector-matrix product inside the memory array. A vector represented as voltages on word lines is multiplied by
+          a matrix represented as charge in bit cells to yield a vector
+          represented as currents on bit lines. Now skin, residual, or feedback connections that route signals to non-sequential crossbars dominate energy consumption. Stacking the crossbars shortens
           these interconnects and thereby reduces energy use, but surface area
-          drops even more, constraining crossbars to operate sequentially. A
-          novel method to perform vector-matrix products in a 3D-NAND memory
-          architecture could decrease energy-use by a factor quadratic in the
-          number of layers of circuitry and thus enable all layers to operate
-          concurrently.
+          drops even more. To avoid overheating, stacked crossbars operate sequentially, but that throttles computation. Moving away from learning with synapses to learning with dendrites transcends the 3D thermal constraint. Synaptic inputs are not weighted precisely but rather ordered meticulously along a short stretch of dendrite. Emulating this stretch in a ferroelectric device and fabricating these _nanodendrites_ in 3D could run AI not with megawatts in the cloud but rather with watts on a smartphone.
         align: left
         image_position: left
-        image: images/compute_in_memory.png
+        image: images/Nanodendrites_in_3D.png
       - title: Retinomorphic Vision Sensors
         content: >
           Retinomorphic cameras preprocess their photodetectors’ signals to
