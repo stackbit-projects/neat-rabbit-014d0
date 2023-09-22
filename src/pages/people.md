@@ -5,13 +5,16 @@ sections:
     title: Our Lab
     team:
       - src/data/team/kwabena-boahen.yaml
-      - src/data/team/eric-kauderer-abrams.yaml
       - src/data/team/saarthak-sarup.yaml
       - src/data/team/max-kanwal.yaml
       - src/data/team/leo-liu.yaml
+      - src/data/team/louis-lecoeur.yaml
+      - src/data/team/kyrus-mama.yaml
   - type: alumni_section
     title: Alumni
     team:
+      - src/data/alumni/kaili-huang.yaml
+      - src/data/alumni/eric-kauderer-abrams.yaml
       - src/data/alumni/jonathan-timcheck.yaml
       - src/data/alumni/alex-neckar.yaml
       - src/data/alumni/sam-fok.yaml

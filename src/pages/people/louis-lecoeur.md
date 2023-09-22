@@ -1,20 +1,20 @@
 ---
-title: Eric Kauderer-Abrams
+title: Louis Le Coeur
 sections:
   - type: person_section
-    person_data_file: src/data/alumni/eric-kauderer-abrams.yaml
+    person_data_file: src/data/team/louis-lecoeur.yaml
 seo:
-  title: People | Eric Kauderer-Abrams
-  description: Eric's Homepage
+  title: People | Louis Le Coeur
+  description: Louis's Homepage
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: People | Eric Kauderer-Abrams
+      value: People | Louis Le Coeur
       keyName: property
     - name: 'og:description'
-      value: Eric's Homepage
+      value: Louis's Homepage
       keyName: property
 template: advanced
 ---

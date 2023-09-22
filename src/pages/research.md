@@ -25,7 +25,7 @@ sections:
           - C25
       - title: Scaling Neuromorphic Systems
         content: >-
-          We translate our insights from the brain's spike encoding and dendritic decoding mechanisms to design neuromorphic hardware that realizes the same signaling codes and computational primitives. Such codes and primitives lead to more _scalable_ neuromorphic systems. As the problem size grows, the energy demands grow more favorably. For example, when there are only a few neurons chattering, a neuron can get its message across by increasing its volume (i.e, spiking at a higher rate), but when there are many neurons, it's much better for them to take turns (i.e, coordinate their spiking). Thus the latter code scales more favorably.
+          We translate the brain's spike encoding and dendritic decoding mechanisms into hardware designs that realize the same signaling codes and computational primitives to scale neuromorphic systems. As the problem size grows, the energy demands grow more favorably. For example, when there are only a few neurons chattering, a neuron can get its message across by increasing its volume (i.e, spiking at a higher rate), but when there are many neurons, it's much better for them to take turns (i.e, coordinate their spiking). Thus, the latter code scales more favorably.
 
         align: left
         posts:

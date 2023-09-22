@@ -1,20 +1,20 @@
 ---
-title: Eric Kauderer-Abrams
+title: Kareem Zaghloul
 sections:
   - type: person_section
-    person_data_file: src/data/alumni/eric-kauderer-abrams.yaml
+    person_data_file: src/data/alumni/kaili-huang.yaml
 seo:
-  title: People | Eric Kauderer-Abrams
-  description: Eric's Homepage
+  title: People | Kaili Huang
+  description: Kaili's Homepage
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: People | Eric Kauderer-Abrams
+      value: People | Kaili Huang
       keyName: property
     - name: 'og:description'
-      value: Eric's Homepage
+      value: Kaili's Homepage
       keyName: property
 template: advanced
 ---
