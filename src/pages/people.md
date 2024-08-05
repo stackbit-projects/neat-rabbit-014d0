@@ -8,7 +8,6 @@ sections:
       - src/data/team/saarthak-sarup.yaml
       - src/data/team/max-kanwal.yaml
       - src/data/team/leo-liu.yaml
-      - src/data/team/louis-lecoeur.yaml
       - src/data/team/kyrus-mama.yaml
   - type: alumni_section
     title: Alumni

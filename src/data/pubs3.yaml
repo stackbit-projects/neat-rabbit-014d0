@@ -1,9 +1,18 @@
 2021-:
-- {href: https://doi.org/10.1038/s41586-022-05340-6, id: J47, raw: '<div> K Boahen, <strong>Dendrocentric Learning for Synthetic
+- {href: https://doi.org/10.1109/IEDM45741.2023.10413707, id: C56, raw: '<div> H JY Chen, M Beauchamp, K Toprasertpong,
+    F Huang, L L Coeur, T Nemec, HS P Wong, and K Boahen, <strong>Multi-Gate FeFET Discriminates Spatiotemporal Pulse Sequences
+    for Dendrocentric Learning</strong>, <em>IEEE International Electron Devices Meeting</em>, pp 1-4, 2023.</div>'}
+- {href: https://doi.org/10.14428/esann/2023.ES2023-179, id: C55, raw: '<div> L L Coeur, N Riedman, S Sarup,
+    and K Boahen, <strong>Energy-Efficient Detection of a Spike Sequence</strong>, <em>European Symposium on Artifical
+    Neural Networks</em>, pp 629-634, 2023.</div>'}
+- {href: https://doi.org/10.1109/JETCAS.2023.3321105, id: J48, raw: '<div> B Benjamin, R Smith, and K Boahen, <strong>A
+    Low Thermal Sensitivity Subthreshold-Current to Pulse-Frequency Converter for Neuromorphic Chips</strong>,
+    <em>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</em>,  vol 13, no 4, pp 956-964, 2023.</div>'}
+- {href: /documents/An_Analytical_MOS_Device_Model_8_4_24.pdf, id: J47, raw: '<div> B Benjamin, R Smith, and K Boahen,
+    <strong>An Analytical MOS Device Model with Mismatch and Temperature Variation for Subthreshold Circuits</strong>,
+    <em>Transactions on Circuits and Systems—II</em>, vol 70, issue 6, pp 1826-1830, 2023.</div>'}
+- {href: https://doi.org/10.1038/s41586-022-05340-6, id: J46, raw: '<div> K Boahen, <strong>Dendrocentric Learning for Synthetic
     Intelligence</strong>, <em>Nature</em>,  vol 612, issue 7938, pp 43-50, 2022.</div>'}
-- {href: /documents/bearded_dragon_TCAS_II_11_9_22_blue.pdf, id: J46, raw: '<div> B Benjamin, R Smith, and K Boahen, <strong>An Analytical MOS Device
-    Model with Mismatch and Temperature Variation for Subthreshold Circuits</strong>, <em>Transactions
-    on Circuits and Systems—II</em>, vol ??, no ??, 2022.</div>'}
 - {href: /documents/2022_noise_plosCB.pdf, id: J45, raw: '<div>J Timcheck, J Kadmon, K Boahen,
     and S Ganguli, <strong>Optimal Noise Level for Coding with Tightly Balanced Networks of Spiking
     Neurons in the Presence of Transmission Delays</strong>, <em>PLOS Computational Biology</em>,
